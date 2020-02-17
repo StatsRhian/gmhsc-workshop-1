@@ -1,0 +1,109 @@
+---
+title: "Workshop 1"
+author: '`r jrPresentation::get_author()`'
+output:
+  xaringan::moon_reader:
+    css: ["default", "style.css"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, message=FALSE, include = FALSE}
+options(htmltools.dir.version = FALSE)
+library("jrPresentation")
+library("emo")
+set_presentation_options(page_numbers = FALSE)
+```
+
+
+layout: true
+`r add_border(inverse=FALSE)`
+---
+class: middle, center
+
+# The Challenge
+
+* Choose one of the following data sets
+
+* Create some plots, summary statistics, statistical test
+
+* Communicate the output (rmarkdown doc / flexdashboard / shiny)
+
+---
+
+# Data set one: Conceptions in England and Wales
+
+* [ONS website](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/conceptionandfertilityrates/datasets/conceptionstatisticsenglandandwalesreferencetables)
+
+---
+
+# Data set two
+
+---
+
+# Use your skills
+
+```{r, echo = FALSE}
+knitr::include_graphics("assets/all_hexes.png")
+```
+
+---
+
+# Tips
+
+* Pair programme - two/three to a laptop
+* Start wide - then focus in
+* Think about the story you are trying to tell
+* Divide the work, one pair analyse, the other pair plan the communication
+
+---
+
+# Useful resources
+
+* ONS geoportal
+* RStudio cheatsheets
+* Stackover flow
+* Each other!
+* (Me and Theo)
+
+---
+
+# Plan for the day `r emo::ji("clock")`
+
+* 09:30 - 10:00 Introduction
+* 10:00 - 11:00 Exploratory analysis
+* 11:00 - 11:15 Re-group for questions
+* 11:15 - 11:30 Break
+* 11:30 - 12:30 Start 
+* 12:30 - 13:30 Lunch
+* 13:30 - 15:00 Work on slides
+* 15:00 - 15:15 Break
+* 15:15 - 16:15 Presentations
+* 16:15 - 16:30 Wrap up
+
+---
+
+# Your groups
+
+
+.pull-left[
+A
+B
+C
+D
+E
+]
+
+.pull-right[
+A
+B
+C
+D
+E
+]
+
