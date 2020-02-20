@@ -6,23 +6,17 @@ output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 ```
 
-## R Markdown
+## Introduction
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
+We have perfomed an analysis of the ONS conceptions data, available online at ..
 ```{r cars}
 library("tidyverse")
-df = read_csv(file = "../data/clean/conception_table6.csv")
+df = read_csv(file = "../data/processed/conception_table_6.csv")
 ```
 
-## Including Plots
-
-You can also embed plots, for example:
 
 ```{r pressure, echo=FALSE}
 df %>%
@@ -46,16 +40,28 @@ df %>%
   ggplot(aes(x =  reorder(Area, value), y = value)) + 
   geom_col() + 
   coord_flip() + 
-  ggtitle("Teenage conceptions per 100 in the North West, split by Area") + 
+  ggtitle("Conceptions per 1000 teenages in the Greater Manchester, split by LSOA") + 
   theme_minimal() + 
   ylab("") +
   xlab("")
+
+df %>%
+  filter(stat != "number_conceptions") %>%
+  ggplot(aes(x = year, y = value)) + 
+  geom_point(aes(col = Area)) + 
+  geom_line(aes(group = Area)) + 
+  facet_wrap(~stat)
 ```
 
+# Creating maps
+
+It makes sense to represent some of this data on a map.
+In order to do this, we need a shapefile of Greater Manchester. 
+We've downloaded the Local Authority Districts shape file from the [Open Geography Portal](http://geoportal.statistics.gov.uk/)
 
 ```{r}
 library("sf")
-geo = st_read("../data/Local_Authority_Districts_December_2019_Boundaries_UK_BFC/Local_Authority_Districts_December_2019_Boundaries_UK_BFC.shp")
+geo = st_read("../data/raw/Local_Authority_Districts_December_2019_Boundaries_UK_BFC/Local_Authority_Districts_December_2019_Boundaries_UK_BFC.shp")
 
 # Keep only GM data
 lsoa_codes = c("E08000001", "E08000002", "E08000003", "E08000004", "E08000005",
@@ -81,10 +87,14 @@ tm_shape(teen_17_geo) +
   tm_polygons(col = "value", palette="Purples", title = "Teenager conceptions \n per 100") + 
   tm_text("Area", size = 0.7, col = "black")
 
-
 ```
 
 # Leaflet map
+
+We then dediced to create a interactive map, using the same dataset above, but instead using the **leaflet** package.
+
+In order to colour the polygons by the values, we had to first create our own palette function.
+We then used that palette function in the fillColor argument.
 
 ```{r leafletmap}
 library("leaflet")
@@ -101,9 +111,8 @@ teen_17_geo %>%
               opacity = 1,
               color = "white",
               dashArray = "3",
-              fillOpacity = 0.8,)
-
-
+              fillOpacity = 0.8) %>%
+    addLegend("bottomleft", pal = pal, values = ~value,
+    title = "Conceptions per </br>1000 teenagers")
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

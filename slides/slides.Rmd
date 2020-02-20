@@ -24,15 +24,32 @@ set_presentation_options(page_numbers = FALSE)
 layout: true
 `r add_border(inverse=FALSE)`
 ---
-class: middle, center
+
 
 # The Challenge
 
 * Choose one of the following data sets
+    * ONS Conceptions data (2017)
+    * Indices of deprivation 2019
 
-* Create some plots, summary statistics, statistical test
+--
 
-* Communicate the output (rmarkdown doc / flexdashboard / shiny)
+* Do some analysis
+    * Plots
+    * Summary statistics
+    * Tables
+    * Text
+    * Statistical tests
+    * Linear regression
+    * Maps
+
+--
+
+* Communicate your findings
+    * R Markdown document
+    * R Markdown presentation
+    * Flexdashboard
+    * Shiny app
 
 ---
 
@@ -45,6 +62,7 @@ class: middle, center
 # Data set two
 
 ---
+
 
 # Use your skills
 
