@@ -1,0 +1,61 @@
+---
+title: "English indices of deprivation 2019"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library("flexdashboard")
+library("readxl")
+library("sf")
+imd_2019 = read_excel("../data/raw/File_1_-_IMD2019_Index_of_Multiple_Deprivation.xlsx", 
+     sheet = "IMD2019")
+
+# Keep only GM data
+lsoa_codes = c("E08000001", "E08000002", "E08000003", "E08000004", "E08000005",
+               "E08000006", "E08000007", "E08000008", "E08000009", "E08000010")
+
+imd_2019_gm =
+  imd_2019 %>%
+  filter(`Local Authority District code (2019)` %in% lsoa_codes) %>%
+  select(`Local Authority District name (2019)`, `Index of Multiple Deprivation (IMD) Rank`, `Index of Multiple Deprivation (IMD) Decile`)
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r}
+geo = st_read("../data/raw/Local_Authority_Districts_December_2019_Boundaries_UK_BFC/Local_Authority_Districts_December_2019_Boundaries_UK_BFC.shp")
+
+# Keep only GM data
+lsoa_codes = c("E08000001", "E08000002", "E08000003", "E08000004", "E08000005",
+               "E08000006", "E08000007", "E08000008", "E08000009", "E08000010",
+               "E11000001", "E12000002", "E92000001")
+
+geo_gm =
+  geo %>%
+  filter(lad19cd %in% lsoa_codes)
+
+imd_geo = 
+  left_join(geo_gm, imd_2019, by = c("lad19cd" = "LSOA"))
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+
+```
+
+### Chart C
+
+```{r}
+
+```
+
