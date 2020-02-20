@@ -1,4 +1,4 @@
-# Read Me
+# GMHSC Workshop 1
 
 This repository contains all files needed for the GMHSC analysts Workshop 1.
 
