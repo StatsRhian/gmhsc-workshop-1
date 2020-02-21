@@ -15,6 +15,13 @@ We have perfomed an analysis of the ONS conceptions data, available online at ..
 ```{r cars}
 library("tidyverse")
 df = read_csv(file = "../data/processed/conception_table_6.csv")
+
+df %>%
+  filter(stat == "conceptions_per_100") %>%
+  ggplot(aes(x = year, y = value)) +
+  geom_point() +
+  geom_line() +
+  facet_wrap(~Area)
 ```
 
 
@@ -102,7 +109,7 @@ library("leaflet")
 pal = colorNumeric(palette = "Purples", domain = teen_17_geo$values)
 
 teen_17_geo %>%
-  st_transform(4326) %>%
+  st_transform(4326) %>% 
   leaflet() %>%
   addTiles() %>%
   addPolygons(fillColor = ~pal(value),

@@ -24,13 +24,21 @@ set_presentation_options(page_numbers = FALSE)
 layout: true
 `r add_border(inverse=FALSE)`
 ---
+class: middle center
 
+# A data science workflow
+
+```{r, echo = FALSE}
+knitr::include_graphics("assets/data-science-workflow.png", )
+```
+
+---
 
 # The Challenge
 
 * Choose one of the following data sets
     * ONS Conceptions data (2017)
-    * Indices of deprivation 2019
+    * English indices of deprivation (2019)
 
 --
 
@@ -57,7 +65,7 @@ layout: true
 
 * [ONS website](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/conceptionandfertilityrates/datasets/conceptionstatisticsenglandandwalesreferencetables)
 
-```{r }
+
 
 ---
 
@@ -85,7 +93,6 @@ knitr::include_graphics("assets/all_hexes.png")
 
 # Useful resources
 
-* ONS geoportal
 * RStudio cheatsheets
 * Stackover flow
 * Each other!
@@ -108,22 +115,59 @@ knitr::include_graphics("assets/all_hexes.png")
 
 ---
 
-# Your groups
-
 
 .pull-left[
-A
-B
-C
-D
-E
+
+```{r, echo = FALSE, out.width = "100px", fig.align="left"}
+knitr::include_graphics("assets/readr.png")
+```
+
+* A
+* B
+* C
+* D
+* E
+
+
+```{r, echo = FALSE, out.width = "100px", fig.align="left"}
+knitr::include_graphics("assets/tidyr.png")
+```
+
+* A
+* B
+* C
+* D
+* E
+
+
 ]
 
 .pull-right[
-A
-B
-C
-D
-E
+
+
+```{r, echo = FALSE, out.width = "100px", fig.align="left"}
+knitr::include_graphics("assets/dplyr.png")
+```
+
+
+* A
+* B
+* C
+* D
+* E
+
+
+```{r, echo = FALSE, out.width = "100px", fig.align="left"}
+knitr::include_graphics("assets/ggplot2.png")
+```
+
+
+* A
+* B
+* C
+* D
+* E
+
+
 ]
 
