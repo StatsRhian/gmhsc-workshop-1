@@ -1,5 +1,5 @@
 ---
-title: "English indices of deprivation 2019"
+title: "Indices of deprivation 2019: Greater Manchester"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
@@ -29,7 +29,9 @@ imd_2019_gm =
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### Chart A
+### Map of Greater Manchester, coloured by IMD decile
+
+The darker areas represent the more deprived areas.
 
 ```{r, echo = FALSE, message = FALSE, warning = FALSE}
 geo = st_read("../data/raw/Lower_Layer_Super_Output_Areas_December_2011_Boundaries_EW_BSC/Lower_Layer_Super_Output_Areas_December_2011_Boundaries_EW_BSC.shp", quiet = TRUE)
@@ -44,17 +46,17 @@ geo_gm =
 imd_geo = 
   left_join(geo_gm, imd_2019, by = c("LSOA11CD" = "LSOA code (2011)"))
 
-pal = colorNumeric(palette = "Purples", domain = imd_geo$`Index of Multiple Deprivation (IMD) Decile`)
+pal = colorNumeric(palette = "YlOrBr", domain = imd_geo$`Index of Multiple Deprivation (IMD) Decile`, reverse = TRUE)
 
 leaflet(imd_geo) %>%
   addTiles() %>%
   addPolygons(fillColor = ~pal(`Index of Multiple Deprivation (IMD) Decile`), 
               label = ~`LSOA name (2011)`, 
-              weight = 2,
+              weight = 1,
               opacity = 1,
-              color = "white",
-              dashArray = "3",
-              fillOpacity = 0.8) %>%
+              color = "grey",
+              dashArray = "1",
+              fillOpacity = 0.9) %>%
       addLegend("bottomleft", pal = pal, values = ~`Index of Multiple Deprivation (IMD) Decile`,
     title = "IMD decile")
 ```
@@ -62,15 +64,31 @@ leaflet(imd_geo) %>%
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-### Chart B
+### Table of GM LSOAs arrange by rank
 
 ```{r}
 imd_2019_gm %>%
   select(`LSOA name (2011)`, `Index of Multiple Deprivation (IMD) Rank`) %>%
   arrange(`Index of Multiple Deprivation (IMD) Rank`) %>%
   datatable()
-
 ```
 
+### GM neighbourhoods in the most deprived 10% of neighbourhoods in England
+
+```{r}
+
+# Calculate what percentage of the GM neighbourhoods are in the 
+# most deprived 10 per cent of neighbourhoods in England
+
+percent_most_deprived = 
+  imd_2019_gm %>%
+  group_by(`Index of Multiple Deprivation (IMD) Decile`) %>%
+  summarise(n = n()) %>%
+  mutate(freq = n / sum(n)) %>%
+  filter(`Index of Multiple Deprivation (IMD) Decile` == 1) %>%
+  pull(freq) 
+
+valueBox(paste0(round(100 * percent_most_deprived), "%"), icon = "fa-home")
+```
 
 
