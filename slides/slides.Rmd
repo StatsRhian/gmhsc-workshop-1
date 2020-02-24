@@ -34,15 +34,15 @@ knitr::include_graphics("assets/data-science-workflow.png", )
 
 ---
 
-# The Challenge
+# The Challenge `r emo::ji("computer")`
 
-* Choose one of the following data sets
+* Choose one of the following data sets `r emo::ji("numbers")`
     * ONS Conceptions data (2017)
     * English indices of deprivation (2019)
 
 --
 
-* Do some analysis
+* Do some analysis `r  emo::ji("magnifying")`
     * Plots
     * Summary statistics
     * Tables
@@ -53,7 +53,7 @@ knitr::include_graphics("assets/data-science-workflow.png", )
 
 --
 
-* Communicate your findings
+* Communicate your findings `r emo::ji("graph")`
     * R Markdown document
     * R Markdown presentation
     * Flexdashboard
@@ -61,7 +61,7 @@ knitr::include_graphics("assets/data-science-workflow.png", )
 
 ---
 
-# Data set one: Conceptions in England and Wales
+# Data set one: Conceptions in England and Wales `r emo::ji("baby")`
 
 * [ONS website](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/conceptionandfertilityrates/datasets/conceptionstatisticsenglandandwalesreferencetables)
 
@@ -75,7 +75,7 @@ knitr::include_graphics("assets/data-science-workflow.png", )
 
 ---
 
-# Data set two: English indices of deprivation 2019
+# Data set two: English indices of deprivation 2019 `r emo::ji("house")`
 
 * [National Statistics](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019)
 
@@ -87,6 +87,20 @@ knitr::include_graphics("assets/data-science-workflow.png", )
     * Population demographics
     * LA aggregated data
     * CCG aggregated data
+
+---
+
+# Geographic data: Open Geography Portal `r emo::ji("world")`
+
+* [Local Authority boundaries](https://geoportal.statistics.gov.uk/datasets/local-authority-districts-december-2019-boundaries-uk-bfc)
+
+* [Lower Layer Super Output Areas](https://geoportal.statistics.gov.uk/datasets/lower-layer-super-output-areas-december-2011-boundaries-ew-bsc?geometry=-13.162%2C52.284%2C7.767%2C54.575)
+
+* Use `st_read("filename.shp)` from **sf** to read in data
+
+* Use **dplyr** joins to join the shapefiles with the relevant statistics
+
+* You might have to transform the CRS to get **leaflet** to work - ask!
 
 ---
 class: middle, center

@@ -38,15 +38,15 @@ class: middle center
 
 ---
 
-# The Challenge
+# The Challenge 💻
 
-* Choose one of the following data sets
+* Choose one of the following data sets 🔢
     * ONS Conceptions data (2017)
     * English indices of deprivation (2019)
 
 --
 
-* Do some analysis
+* Do some analysis 🔎
     * Plots
     * Summary statistics
     * Tables
@@ -57,7 +57,7 @@ class: middle center
 
 --
 
-* Communicate your findings
+* Communicate your findings 📈
     * R Markdown document
     * R Markdown presentation
     * Flexdashboard
@@ -65,7 +65,7 @@ class: middle center
 
 ---
 
-# Data set one: Conceptions in England and Wales
+# Data set one: Conceptions in England and Wales 👶
 
 * [ONS website](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/conceptionandfertilityrates/datasets/conceptionstatisticsenglandandwalesreferencetables)
 
@@ -79,7 +79,7 @@ class: middle center
 
 ---
 
-# Data set two: English indices of deprivation 2019
+# Data set two: English indices of deprivation 2019 🏠
 
 * [National Statistics](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019)
 
@@ -91,6 +91,18 @@ class: middle center
     * Population demographics
     * LA aggregated data
     * CCG aggregated data
+
+---
+
+# Geographic data: Open Geography Portal 🌍
+
+* [Local Authority boundaries](https://geoportal.statistics.gov.uk/datasets/local-authority-districts-december-2019-boundaries-uk-bfc)
+
+* [Lower Layer Super Output Areas](https://geoportal.statistics.gov.uk/datasets/lower-layer-super-output-areas-december-2011-boundaries-ew-bsc?geometry=-13.162%2C52.284%2C7.767%2C54.575)
+
+* Use `st_read("filename.shp)` from **sf** to read in data
+
+* Use **dplyr** joins to join the shapefiles with the relevant statistics
 
 ---
 class: middle, center
