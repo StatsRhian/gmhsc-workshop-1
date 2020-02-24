@@ -1,6 +1,6 @@
 ---
 title: "Workshop 1"
-author: '`r jrPresentation::get_author()`'
+author: "Rhian Davies and Theo Roe" 
 output:
   xaringan::moon_reader:
     css: ["default", "style.css"]
@@ -65,14 +65,34 @@ knitr::include_graphics("assets/data-science-workflow.png", )
 
 * [ONS website](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/conceptionandfertilityrates/datasets/conceptionstatisticsenglandandwalesreferencetables)
 
+* This requires some wrangling to get into long form
 
+* I've pre-processed table 1a, and 6 for you
+
+* If you want to use the other tables- you'll have to process them yourselves!
+
+* Code is in the repo
 
 ---
 
-# Data set two
+# Data set two: English indices of deprivation 2019
+
+* [National Statistics](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019)
+
+* Created by the Ministry of Housing, Communities & Local Government
+
+* LSOA level data, IMD rank, IMD decile, and rank and decile for each domain
+
+* Additional info available online
+    * Population demographics
+    * LA aggregated data
+    * CCG aggregated data
 
 ---
+class: middle, center
+# Examples
 
+---
 
 # Use your skills
 
@@ -82,20 +102,30 @@ knitr::include_graphics("assets/all_hexes.png")
 
 ---
 
-# Tips
+# Tips `r emo::ji("bulb")`
 
 * Pair programme - two/three to a laptop
+
 * Start wide - then focus in
+
 * Think about the story you are trying to tell
+
 * Divide the work, one pair analyse, the other pair plan the communication
 
 ---
 
-# Useful resources
+# Useful resources  `r emo::ji("books")`
 
-* RStudio cheatsheets
-* Stackover flow
+* RStudio cheatsheets 
+
+* RMarkdown templates
+
+* [Templates / examples online](https://shiny.rstudio.com/gallery/)
+
 * Each other!
+
+* [Stack overflow](https://stackoverflow.com/questions/tagged/r?tab=Newest)
+
 * (Me and Theo)
 
 ---
@@ -170,4 +200,10 @@ knitr::include_graphics("assets/ggplot2.png")
 
 
 ]
+
+---
+class: middle center
+
+
+# [github.com/trianglegirl/gmhsc-workshop-1](https://github.com/trianglegirl/gmhsc-workshop-1)
 
