@@ -1,1301 +1,1301 @@
-LSOA,Area,stat,year,value
+la_code,la_name,stat,year,value
 E92000001,ENGLAND,number_conceptions,2017,15748
-E92000001,ENGLAND,conceptions_per_100,2017,17.8
-E92000001,ENGLAND,maternity_per_100,2017,8.5
-E92000001,ENGLAND,abortion_per_100,2017,9.2
+E92000001,ENGLAND,conceptions_per_1000,2017,17.8
+E92000001,ENGLAND,maternity_per_1000,2017,8.5
+E92000001,ENGLAND,abortion_per_1000,2017,9.2
 E92000001,ENGLAND,percent_conceptions_abortion,2017,52
 E92000001,ENGLAND,number_conceptions,2016,17024
-E92000001,ENGLAND,conceptions_per_100,2016,18.8
-E92000001,ENGLAND,maternity_per_100,2016,9.1
-E92000001,ENGLAND,abortion_per_100,2016,9.8
+E92000001,ENGLAND,conceptions_per_1000,2016,18.8
+E92000001,ENGLAND,maternity_per_1000,2016,9.1
+E92000001,ENGLAND,abortion_per_1000,2016,9.8
 E92000001,ENGLAND,percent_conceptions_abortion,2016,51.9
 E92000001,ENGLAND,number_conceptions,2015,19080
-E92000001,ENGLAND,conceptions_per_100,2015,20.8
-E92000001,ENGLAND,maternity_per_100,2015,10.1
-E92000001,ENGLAND,abortion_per_100,2015,10.6
+E92000001,ENGLAND,conceptions_per_1000,2015,20.8
+E92000001,ENGLAND,maternity_per_1000,2015,10.1
+E92000001,ENGLAND,abortion_per_1000,2015,10.6
 E92000001,ENGLAND,percent_conceptions_abortion,2015,51.2
 E92000001,ENGLAND,number_conceptions,2014,21282
-E92000001,ENGLAND,conceptions_per_100,2014,22.8
-E92000001,ENGLAND,maternity_per_100,2014,11.1
-E92000001,ENGLAND,abortion_per_100,2014,11.7
+E92000001,ENGLAND,conceptions_per_1000,2014,22.8
+E92000001,ENGLAND,maternity_per_1000,2014,11.1
+E92000001,ENGLAND,abortion_per_1000,2014,11.7
 E92000001,ENGLAND,percent_conceptions_abortion,2014,51.1
 E92000001,ENGLAND,number_conceptions,2013,22830
-E92000001,ENGLAND,conceptions_per_100,2013,24.3
-E92000001,ENGLAND,maternity_per_100,2013,11.9
-E92000001,ENGLAND,abortion_per_100,2013,12.4
+E92000001,ENGLAND,conceptions_per_1000,2013,24.3
+E92000001,ENGLAND,maternity_per_1000,2013,11.9
+E92000001,ENGLAND,abortion_per_1000,2013,12.4
 E92000001,ENGLAND,percent_conceptions_abortion,2013,51.1
 E92000001,ENGLAND,number_conceptions,2012,26157
-E92000001,ENGLAND,conceptions_per_100,2012,27.7
-E92000001,ENGLAND,maternity_per_100,2012,14.1
-E92000001,ENGLAND,abortion_per_100,2012,13.6
+E92000001,ENGLAND,conceptions_per_1000,2012,27.7
+E92000001,ENGLAND,maternity_per_1000,2012,14.1
+E92000001,ENGLAND,abortion_per_1000,2012,13.6
 E92000001,ENGLAND,percent_conceptions_abortion,2012,49.1
 E92000001,ENGLAND,number_conceptions,2011,29166
-E92000001,ENGLAND,conceptions_per_100,2011,30.7
-E92000001,ENGLAND,maternity_per_100,2011,15.6
-E92000001,ENGLAND,abortion_per_100,2011,15.1
+E92000001,ENGLAND,conceptions_per_1000,2011,30.7
+E92000001,ENGLAND,maternity_per_1000,2011,15.6
+E92000001,ENGLAND,abortion_per_1000,2011,15.1
 E92000001,ENGLAND,percent_conceptions_abortion,2011,49.3
 E92000001,ENGLAND,number_conceptions,2010,32552
-E92000001,ENGLAND,conceptions_per_100,2010,34.2
-E92000001,ENGLAND,maternity_per_100,2010,17
-E92000001,ENGLAND,abortion_per_100,2010,17.2
+E92000001,ENGLAND,conceptions_per_1000,2010,34.2
+E92000001,ENGLAND,maternity_per_1000,2010,17
+E92000001,ENGLAND,abortion_per_1000,2010,17.2
 E92000001,ENGLAND,percent_conceptions_abortion,2010,50.3
 E92000001,ENGLAND,number_conceptions,2009,35966
-E92000001,ENGLAND,conceptions_per_100,2009,37.1
-E92000001,ENGLAND,maternity_per_100,2009,18.9
-E92000001,ENGLAND,abortion_per_100,2009,18.2
+E92000001,ENGLAND,conceptions_per_1000,2009,37.1
+E92000001,ENGLAND,maternity_per_1000,2009,18.9
+E92000001,ENGLAND,abortion_per_1000,2009,18.2
 E92000001,ENGLAND,percent_conceptions_abortion,2009,49.1
 E92000001,ENGLAND,number_conceptions,2008,38783
-E92000001,ENGLAND,conceptions_per_100,2008,39.7
-E92000001,ENGLAND,maternity_per_100,2008,19.9
-E92000001,ENGLAND,abortion_per_100,2008,19.7
+E92000001,ENGLAND,conceptions_per_1000,2008,39.7
+E92000001,ENGLAND,maternity_per_1000,2008,19.9
+E92000001,ENGLAND,abortion_per_1000,2008,19.7
 E92000001,ENGLAND,percent_conceptions_abortion,2008,49.7
 E92000001,ENGLAND,number_conceptions,2007,40366
-E92000001,ENGLAND,conceptions_per_100,2007,41.4
-E92000001,ENGLAND,maternity_per_100,2007,20.5
-E92000001,ENGLAND,abortion_per_100,2007,20.9
+E92000001,ENGLAND,conceptions_per_1000,2007,41.4
+E92000001,ENGLAND,maternity_per_1000,2007,20.5
+E92000001,ENGLAND,abortion_per_1000,2007,20.9
 E92000001,ENGLAND,percent_conceptions_abortion,2007,50.5
 E92000001,ENGLAND,number_conceptions,2006,39170
-E92000001,ENGLAND,conceptions_per_100,2006,40.6
-E92000001,ENGLAND,maternity_per_100,2006,20.8
-E92000001,ENGLAND,abortion_per_100,2006,19.8
+E92000001,ENGLAND,conceptions_per_1000,2006,40.6
+E92000001,ENGLAND,maternity_per_1000,2006,20.8
+E92000001,ENGLAND,abortion_per_1000,2006,19.8
 E92000001,ENGLAND,percent_conceptions_abortion,2006,48.8
 E92000001,ENGLAND,number_conceptions,2005,39804
-E92000001,ENGLAND,conceptions_per_100,2005,41.4
-E92000001,ENGLAND,maternity_per_100,2005,22
-E92000001,ENGLAND,abortion_per_100,2005,19.4
+E92000001,ENGLAND,conceptions_per_1000,2005,41.4
+E92000001,ENGLAND,maternity_per_1000,2005,22
+E92000001,ENGLAND,abortion_per_1000,2005,19.4
 E92000001,ENGLAND,percent_conceptions_abortion,2005,46.8
 E92000001,ENGLAND,number_conceptions,2004,39593
-E92000001,ENGLAND,conceptions_per_100,2004,41.6
-E92000001,ENGLAND,maternity_per_100,2004,22.4
-E92000001,ENGLAND,abortion_per_100,2004,19.2
+E92000001,ENGLAND,conceptions_per_1000,2004,41.6
+E92000001,ENGLAND,maternity_per_1000,2004,22.4
+E92000001,ENGLAND,abortion_per_1000,2004,19.2
 E92000001,ENGLAND,percent_conceptions_abortion,2004,46
 E92000001,ENGLAND,number_conceptions,2003,39553
-E92000001,ENGLAND,conceptions_per_100,2003,42.1
-E92000001,ENGLAND,maternity_per_100,2003,22.7
-E92000001,ENGLAND,abortion_per_100,2003,19.4
+E92000001,ENGLAND,conceptions_per_1000,2003,42.1
+E92000001,ENGLAND,maternity_per_1000,2003,22.7
+E92000001,ENGLAND,abortion_per_1000,2003,19.4
 E92000001,ENGLAND,percent_conceptions_abortion,2003,46.1
 E92000001,ENGLAND,number_conceptions,2002,39350
-E92000001,ENGLAND,conceptions_per_100,2002,42.8
-E92000001,ENGLAND,maternity_per_100,2002,23.2
-E92000001,ENGLAND,abortion_per_100,2002,19.6
+E92000001,ENGLAND,conceptions_per_1000,2002,42.8
+E92000001,ENGLAND,maternity_per_1000,2002,23.2
+E92000001,ENGLAND,abortion_per_1000,2002,19.6
 E92000001,ENGLAND,percent_conceptions_abortion,2002,45.8
 E92000001,ENGLAND,number_conceptions,2001,38461
-E92000001,ENGLAND,conceptions_per_100,2001,42.5
-E92000001,ENGLAND,maternity_per_100,2001,22.9
-E92000001,ENGLAND,abortion_per_100,2001,19.6
+E92000001,ENGLAND,conceptions_per_1000,2001,42.5
+E92000001,ENGLAND,maternity_per_1000,2001,22.9
+E92000001,ENGLAND,abortion_per_1000,2001,19.6
 E92000001,ENGLAND,percent_conceptions_abortion,2001,46.1
 E92000001,ENGLAND,number_conceptions,2000,38700
-E92000001,ENGLAND,conceptions_per_100,2000,43.6
-E92000001,ENGLAND,maternity_per_100,2000,24.1
-E92000001,ENGLAND,abortion_per_100,2000,19.6
+E92000001,ENGLAND,conceptions_per_1000,2000,43.6
+E92000001,ENGLAND,maternity_per_1000,2000,24.1
+E92000001,ENGLAND,abortion_per_1000,2000,19.6
 E92000001,ENGLAND,percent_conceptions_abortion,2000,44.8
 E92000001,ENGLAND,number_conceptions,1999,39247
-E92000001,ENGLAND,conceptions_per_100,1999,44.8
-E92000001,ENGLAND,maternity_per_100,1999,25.3
-E92000001,ENGLAND,abortion_per_100,1999,19.5
+E92000001,ENGLAND,conceptions_per_1000,1999,44.8
+E92000001,ENGLAND,maternity_per_1000,1999,25.3
+E92000001,ENGLAND,abortion_per_1000,1999,19.5
 E92000001,ENGLAND,percent_conceptions_abortion,1999,43.5
 E92000001,ENGLAND,number_conceptions,1998,41089
-E92000001,ENGLAND,conceptions_per_100,1998,46.6
-E92000001,ENGLAND,maternity_per_100,1998,26.9
-E92000001,ENGLAND,abortion_per_100,1998,19.8
+E92000001,ENGLAND,conceptions_per_1000,1998,46.6
+E92000001,ENGLAND,maternity_per_1000,1998,26.9
+E92000001,ENGLAND,abortion_per_1000,1998,19.8
 E92000001,ENGLAND,percent_conceptions_abortion,1998,42.4
 E12000002,NORTH WEST,number_conceptions,2017,2548
-E12000002,NORTH WEST,conceptions_per_100,2017,21.9
-E12000002,NORTH WEST,maternity_per_100,2017,10.5
-E12000002,NORTH WEST,abortion_per_100,2017,11.4
+E12000002,NORTH WEST,conceptions_per_1000,2017,21.9
+E12000002,NORTH WEST,maternity_per_1000,2017,10.5
+E12000002,NORTH WEST,abortion_per_1000,2017,11.4
 E12000002,NORTH WEST,percent_conceptions_abortion,2017,51.9
 E12000002,NORTH WEST,number_conceptions,2016,2664
-E12000002,NORTH WEST,conceptions_per_100,2016,22.4
-E12000002,NORTH WEST,maternity_per_100,2016,10.8
-E12000002,NORTH WEST,abortion_per_100,2016,11.6
+E12000002,NORTH WEST,conceptions_per_1000,2016,22.4
+E12000002,NORTH WEST,maternity_per_1000,2016,10.8
+E12000002,NORTH WEST,abortion_per_1000,2016,11.6
 E12000002,NORTH WEST,percent_conceptions_abortion,2016,51.8
 E12000002,NORTH WEST,number_conceptions,2015,2991
-E12000002,NORTH WEST,conceptions_per_100,2015,24.7
-E12000002,NORTH WEST,maternity_per_100,2015,11.8
-E12000002,NORTH WEST,abortion_per_100,2015,12.9
+E12000002,NORTH WEST,conceptions_per_1000,2015,24.7
+E12000002,NORTH WEST,maternity_per_1000,2015,11.8
+E12000002,NORTH WEST,abortion_per_1000,2015,12.9
 E12000002,NORTH WEST,percent_conceptions_abortion,2015,52.1
 E12000002,NORTH WEST,number_conceptions,2014,3332
-E12000002,NORTH WEST,conceptions_per_100,2014,26.8
-E12000002,NORTH WEST,maternity_per_100,2014,12.7
-E12000002,NORTH WEST,abortion_per_100,2014,14.1
+E12000002,NORTH WEST,conceptions_per_1000,2014,26.8
+E12000002,NORTH WEST,maternity_per_1000,2014,12.7
+E12000002,NORTH WEST,abortion_per_1000,2014,14.1
 E12000002,NORTH WEST,percent_conceptions_abortion,2014,52.5
 E12000002,NORTH WEST,number_conceptions,2013,3473
-E12000002,NORTH WEST,conceptions_per_100,2013,27.6
-E12000002,NORTH WEST,maternity_per_100,2013,13
-E12000002,NORTH WEST,abortion_per_100,2013,14.6
+E12000002,NORTH WEST,conceptions_per_1000,2013,27.6
+E12000002,NORTH WEST,maternity_per_1000,2013,13
+E12000002,NORTH WEST,abortion_per_1000,2013,14.6
 E12000002,NORTH WEST,percent_conceptions_abortion,2013,52.8
 E12000002,NORTH WEST,number_conceptions,2012,4020
-E12000002,NORTH WEST,conceptions_per_100,2012,31.6
-E12000002,NORTH WEST,maternity_per_100,2012,16.3
-E12000002,NORTH WEST,abortion_per_100,2012,15.3
+E12000002,NORTH WEST,conceptions_per_1000,2012,31.6
+E12000002,NORTH WEST,maternity_per_1000,2012,16.3
+E12000002,NORTH WEST,abortion_per_1000,2012,15.3
 E12000002,NORTH WEST,percent_conceptions_abortion,2012,48.5
 E12000002,NORTH WEST,number_conceptions,2011,4516
-E12000002,NORTH WEST,conceptions_per_100,2011,35.3
-E12000002,NORTH WEST,maternity_per_100,2011,18.1
-E12000002,NORTH WEST,abortion_per_100,2011,17.3
+E12000002,NORTH WEST,conceptions_per_1000,2011,35.3
+E12000002,NORTH WEST,maternity_per_1000,2011,18.1
+E12000002,NORTH WEST,abortion_per_1000,2011,17.3
 E12000002,NORTH WEST,percent_conceptions_abortion,2011,48.9
 E12000002,NORTH WEST,number_conceptions,2010,5129
-E12000002,NORTH WEST,conceptions_per_100,2010,39.6
-E12000002,NORTH WEST,maternity_per_100,2010,20.1
-E12000002,NORTH WEST,abortion_per_100,2010,19.5
+E12000002,NORTH WEST,conceptions_per_1000,2010,39.6
+E12000002,NORTH WEST,maternity_per_1000,2010,20.1
+E12000002,NORTH WEST,abortion_per_1000,2010,19.5
 E12000002,NORTH WEST,percent_conceptions_abortion,2010,49.3
 E12000002,NORTH WEST,number_conceptions,2009,5727
-E12000002,NORTH WEST,conceptions_per_100,2009,42.6
-E12000002,NORTH WEST,maternity_per_100,2009,21.8
-E12000002,NORTH WEST,abortion_per_100,2009,20.7
+E12000002,NORTH WEST,conceptions_per_1000,2009,42.6
+E12000002,NORTH WEST,maternity_per_1000,2009,21.8
+E12000002,NORTH WEST,abortion_per_1000,2009,20.7
 E12000002,NORTH WEST,percent_conceptions_abortion,2009,48.7
 E12000002,NORTH WEST,number_conceptions,2008,6199
-E12000002,NORTH WEST,conceptions_per_100,2008,44.8
-E12000002,NORTH WEST,maternity_per_100,2008,22.9
-E12000002,NORTH WEST,abortion_per_100,2008,21.9
+E12000002,NORTH WEST,conceptions_per_1000,2008,44.8
+E12000002,NORTH WEST,maternity_per_1000,2008,22.9
+E12000002,NORTH WEST,abortion_per_1000,2008,21.9
 E12000002,NORTH WEST,percent_conceptions_abortion,2008,48.8
 E12000002,NORTH WEST,number_conceptions,2007,6487
-E12000002,NORTH WEST,conceptions_per_100,2007,46.6
-E12000002,NORTH WEST,maternity_per_100,2007,23.8
-E12000002,NORTH WEST,abortion_per_100,2007,22.8
+E12000002,NORTH WEST,conceptions_per_1000,2007,46.6
+E12000002,NORTH WEST,maternity_per_1000,2007,23.8
+E12000002,NORTH WEST,abortion_per_1000,2007,22.8
 E12000002,NORTH WEST,percent_conceptions_abortion,2007,48.9
 E12000002,NORTH WEST,number_conceptions,2006,6082
-E12000002,NORTH WEST,conceptions_per_100,2006,44.2
-E12000002,NORTH WEST,maternity_per_100,2006,24
-E12000002,NORTH WEST,abortion_per_100,2006,20.2
+E12000002,NORTH WEST,conceptions_per_1000,2006,44.2
+E12000002,NORTH WEST,maternity_per_1000,2006,24
+E12000002,NORTH WEST,abortion_per_1000,2006,20.2
 E12000002,NORTH WEST,percent_conceptions_abortion,2006,45.7
 E12000002,NORTH WEST,number_conceptions,2005,6416
-E12000002,NORTH WEST,conceptions_per_100,2005,46.9
-E12000002,NORTH WEST,maternity_per_100,2005,26.6
-E12000002,NORTH WEST,abortion_per_100,2005,20.3
+E12000002,NORTH WEST,conceptions_per_1000,2005,46.9
+E12000002,NORTH WEST,maternity_per_1000,2005,26.6
+E12000002,NORTH WEST,abortion_per_1000,2005,20.3
 E12000002,NORTH WEST,percent_conceptions_abortion,2005,43.3
 E12000002,NORTH WEST,number_conceptions,2004,6268
-E12000002,NORTH WEST,conceptions_per_100,2004,46
-E12000002,NORTH WEST,maternity_per_100,2004,26.5
-E12000002,NORTH WEST,abortion_per_100,2004,19.5
+E12000002,NORTH WEST,conceptions_per_1000,2004,46
+E12000002,NORTH WEST,maternity_per_1000,2004,26.5
+E12000002,NORTH WEST,abortion_per_1000,2004,19.5
 E12000002,NORTH WEST,percent_conceptions_abortion,2004,42.5
 E12000002,NORTH WEST,number_conceptions,2003,6159
-E12000002,NORTH WEST,conceptions_per_100,2003,45.2
-E12000002,NORTH WEST,maternity_per_100,2003,26.3
-E12000002,NORTH WEST,abortion_per_100,2003,19
+E12000002,NORTH WEST,conceptions_per_1000,2003,45.2
+E12000002,NORTH WEST,maternity_per_1000,2003,26.3
+E12000002,NORTH WEST,abortion_per_1000,2003,19
 E12000002,NORTH WEST,percent_conceptions_abortion,2003,41.9
 E12000002,NORTH WEST,number_conceptions,2002,6126
-E12000002,NORTH WEST,conceptions_per_100,2002,45.4
-E12000002,NORTH WEST,maternity_per_100,2002,26.3
-E12000002,NORTH WEST,abortion_per_100,2002,19.1
+E12000002,NORTH WEST,conceptions_per_1000,2002,45.4
+E12000002,NORTH WEST,maternity_per_1000,2002,26.3
+E12000002,NORTH WEST,abortion_per_1000,2002,19.1
 E12000002,NORTH WEST,percent_conceptions_abortion,2002,42
 E12000002,NORTH WEST,number_conceptions,2001,6017
-E12000002,NORTH WEST,conceptions_per_100,2001,45.1
-E12000002,NORTH WEST,maternity_per_100,2001,25.7
-E12000002,NORTH WEST,abortion_per_100,2001,19.4
+E12000002,NORTH WEST,conceptions_per_1000,2001,45.1
+E12000002,NORTH WEST,maternity_per_1000,2001,25.7
+E12000002,NORTH WEST,abortion_per_1000,2001,19.4
 E12000002,NORTH WEST,percent_conceptions_abortion,2001,43
 E12000002,NORTH WEST,number_conceptions,2000,6207
-E12000002,NORTH WEST,conceptions_per_100,2000,47.5
-E12000002,NORTH WEST,maternity_per_100,2000,27.7
-E12000002,NORTH WEST,abortion_per_100,2000,19.8
+E12000002,NORTH WEST,conceptions_per_1000,2000,47.5
+E12000002,NORTH WEST,maternity_per_1000,2000,27.7
+E12000002,NORTH WEST,abortion_per_1000,2000,19.8
 E12000002,NORTH WEST,percent_conceptions_abortion,2000,41.7
 E12000002,NORTH WEST,number_conceptions,1999,6283
-E12000002,NORTH WEST,conceptions_per_100,1999,48.8
-E12000002,NORTH WEST,maternity_per_100,1999,29.3
-E12000002,NORTH WEST,abortion_per_100,1999,19.5
+E12000002,NORTH WEST,conceptions_per_1000,1999,48.8
+E12000002,NORTH WEST,maternity_per_1000,1999,29.3
+E12000002,NORTH WEST,abortion_per_1000,1999,19.5
 E12000002,NORTH WEST,percent_conceptions_abortion,1999,39.9
 E12000002,NORTH WEST,number_conceptions,1998,6457
-E12000002,NORTH WEST,conceptions_per_100,1998,50.3
-E12000002,NORTH WEST,maternity_per_100,1998,30.9
-E12000002,NORTH WEST,abortion_per_100,1998,19.4
+E12000002,NORTH WEST,conceptions_per_1000,1998,50.3
+E12000002,NORTH WEST,maternity_per_1000,1998,30.9
+E12000002,NORTH WEST,abortion_per_1000,1998,19.4
 E12000002,NORTH WEST,percent_conceptions_abortion,1998,38.5
 E11000001,Greater Manchester (Met county),number_conceptions,2017,974
-E11000001,Greater Manchester (Met county),conceptions_per_100,2017,21.4
-E11000001,Greater Manchester (Met county),maternity_per_100,2017,10.2
-E11000001,Greater Manchester (Met county),abortion_per_100,2017,11.2
+E11000001,Greater Manchester (Met county),conceptions_per_1000,2017,21.4
+E11000001,Greater Manchester (Met county),maternity_per_1000,2017,10.2
+E11000001,Greater Manchester (Met county),abortion_per_1000,2017,11.2
 E11000001,Greater Manchester (Met county),percent_conceptions_abortion,2017,52.4
 E11000001,Greater Manchester (Met county),number_conceptions,2016,1036
-E11000001,Greater Manchester (Met county),conceptions_per_100,2016,22.3
-E11000001,Greater Manchester (Met county),maternity_per_100,2016,11
-E11000001,Greater Manchester (Met county),abortion_per_100,2016,11.3
+E11000001,Greater Manchester (Met county),conceptions_per_1000,2016,22.3
+E11000001,Greater Manchester (Met county),maternity_per_1000,2016,11
+E11000001,Greater Manchester (Met county),abortion_per_1000,2016,11.3
 E11000001,Greater Manchester (Met county),percent_conceptions_abortion,2016,50.9
 E11000001,Greater Manchester (Met county),number_conceptions,2015,1132
-E11000001,Greater Manchester (Met county),conceptions_per_100,2015,24.1
-E11000001,Greater Manchester (Met county),maternity_per_100,2015,11.7
-E11000001,Greater Manchester (Met county),abortion_per_100,2015,12.5
+E11000001,Greater Manchester (Met county),conceptions_per_1000,2015,24.1
+E11000001,Greater Manchester (Met county),maternity_per_1000,2015,11.7
+E11000001,Greater Manchester (Met county),abortion_per_1000,2015,12.5
 E11000001,Greater Manchester (Met county),percent_conceptions_abortion,2015,51.6
 E11000001,Greater Manchester (Met county),number_conceptions,2014,1327
-E11000001,Greater Manchester (Met county),conceptions_per_100,2014,27.7
-E11000001,Greater Manchester (Met county),maternity_per_100,2014,13.2
-E11000001,Greater Manchester (Met county),abortion_per_100,2014,14.4
+E11000001,Greater Manchester (Met county),conceptions_per_1000,2014,27.7
+E11000001,Greater Manchester (Met county),maternity_per_1000,2014,13.2
+E11000001,Greater Manchester (Met county),abortion_per_1000,2014,14.4
 E11000001,Greater Manchester (Met county),percent_conceptions_abortion,2014,52.1
 E11000001,Greater Manchester (Met county),number_conceptions,2013,1365
-E11000001,Greater Manchester (Met county),conceptions_per_100,2013,28.3
-E11000001,Greater Manchester (Met county),maternity_per_100,2013,13.8
-E11000001,Greater Manchester (Met county),abortion_per_100,2013,14.5
+E11000001,Greater Manchester (Met county),conceptions_per_1000,2013,28.3
+E11000001,Greater Manchester (Met county),maternity_per_1000,2013,13.8
+E11000001,Greater Manchester (Met county),abortion_per_1000,2013,14.5
 E11000001,Greater Manchester (Met county),percent_conceptions_abortion,2013,51.3
 E11000001,Greater Manchester (Met county),number_conceptions,2012,1628
-E11000001,Greater Manchester (Met county),conceptions_per_100,2012,33.3
-E11000001,Greater Manchester (Met county),maternity_per_100,2012,17.3
-E11000001,Greater Manchester (Met county),abortion_per_100,2012,16
+E11000001,Greater Manchester (Met county),conceptions_per_1000,2012,33.3
+E11000001,Greater Manchester (Met county),maternity_per_1000,2012,17.3
+E11000001,Greater Manchester (Met county),abortion_per_1000,2012,16
 E11000001,Greater Manchester (Met county),percent_conceptions_abortion,2012,48
 E11000001,Greater Manchester (Met county),number_conceptions,2011,1848
-E11000001,Greater Manchester (Met county),conceptions_per_100,2011,37.8
-E11000001,Greater Manchester (Met county),maternity_per_100,2011,20.2
-E11000001,Greater Manchester (Met county),abortion_per_100,2011,17.6
+E11000001,Greater Manchester (Met county),conceptions_per_1000,2011,37.8
+E11000001,Greater Manchester (Met county),maternity_per_1000,2011,20.2
+E11000001,Greater Manchester (Met county),abortion_per_1000,2011,17.6
 E11000001,Greater Manchester (Met county),percent_conceptions_abortion,2011,46.6
 E11000001,Greater Manchester (Met county),number_conceptions,2010,2052
-E11000001,Greater Manchester (Met county),conceptions_per_100,2010,41.6
-E11000001,Greater Manchester (Met county),maternity_per_100,2010,21.4
-E11000001,Greater Manchester (Met county),abortion_per_100,2010,20.2
+E11000001,Greater Manchester (Met county),conceptions_per_1000,2010,41.6
+E11000001,Greater Manchester (Met county),maternity_per_1000,2010,21.4
+E11000001,Greater Manchester (Met county),abortion_per_1000,2010,20.2
 E11000001,Greater Manchester (Met county),percent_conceptions_abortion,2010,48.6
 E11000001,Greater Manchester (Met county),number_conceptions,2009,2366
-E11000001,Greater Manchester (Met county),conceptions_per_100,2009,46.6
-E11000001,Greater Manchester (Met county),maternity_per_100,2009,23.7
-E11000001,Greater Manchester (Met county),abortion_per_100,2009,22.9
+E11000001,Greater Manchester (Met county),conceptions_per_1000,2009,46.6
+E11000001,Greater Manchester (Met county),maternity_per_1000,2009,23.7
+E11000001,Greater Manchester (Met county),abortion_per_1000,2009,22.9
 E11000001,Greater Manchester (Met county),percent_conceptions_abortion,2009,49.2
 E11000001,Greater Manchester (Met county),number_conceptions,2008,2562
-E11000001,Greater Manchester (Met county),conceptions_per_100,2008,49.4
-E11000001,Greater Manchester (Met county),maternity_per_100,2008,26.1
-E11000001,Greater Manchester (Met county),abortion_per_100,2008,23.3
+E11000001,Greater Manchester (Met county),conceptions_per_1000,2008,49.4
+E11000001,Greater Manchester (Met county),maternity_per_1000,2008,26.1
+E11000001,Greater Manchester (Met county),abortion_per_1000,2008,23.3
 E11000001,Greater Manchester (Met county),percent_conceptions_abortion,2008,47.2
 E11000001,Greater Manchester (Met county),number_conceptions,2007,2640
-E11000001,Greater Manchester (Met county),conceptions_per_100,2007,50.9
-E11000001,Greater Manchester (Met county),maternity_per_100,2007,26.9
-E11000001,Greater Manchester (Met county),abortion_per_100,2007,24
+E11000001,Greater Manchester (Met county),conceptions_per_1000,2007,50.9
+E11000001,Greater Manchester (Met county),maternity_per_1000,2007,26.9
+E11000001,Greater Manchester (Met county),abortion_per_1000,2007,24
 E11000001,Greater Manchester (Met county),percent_conceptions_abortion,2007,47.2
 E11000001,Greater Manchester (Met county),number_conceptions,2006,2596
-E11000001,Greater Manchester (Met county),conceptions_per_100,2006,50.7
-E11000001,Greater Manchester (Met county),maternity_per_100,2006,28
-E11000001,Greater Manchester (Met county),abortion_per_100,2006,22.7
+E11000001,Greater Manchester (Met county),conceptions_per_1000,2006,50.7
+E11000001,Greater Manchester (Met county),maternity_per_1000,2006,28
+E11000001,Greater Manchester (Met county),abortion_per_1000,2006,22.7
 E11000001,Greater Manchester (Met county),percent_conceptions_abortion,2006,44.7
 E11000001,Greater Manchester (Met county),number_conceptions,2005,2733
-E11000001,Greater Manchester (Met county),conceptions_per_100,2005,53.5
-E11000001,Greater Manchester (Met county),maternity_per_100,2005,31
-E11000001,Greater Manchester (Met county),abortion_per_100,2005,22.6
+E11000001,Greater Manchester (Met county),conceptions_per_1000,2005,53.5
+E11000001,Greater Manchester (Met county),maternity_per_1000,2005,31
+E11000001,Greater Manchester (Met county),abortion_per_1000,2005,22.6
 E11000001,Greater Manchester (Met county),percent_conceptions_abortion,2005,42.1
 E11000001,Greater Manchester (Met county),number_conceptions,2004,2678
-E11000001,Greater Manchester (Met county),conceptions_per_100,2004,52.6
-E11000001,Greater Manchester (Met county),maternity_per_100,2004,31.4
-E11000001,Greater Manchester (Met county),abortion_per_100,2004,21.2
+E11000001,Greater Manchester (Met county),conceptions_per_1000,2004,52.6
+E11000001,Greater Manchester (Met county),maternity_per_1000,2004,31.4
+E11000001,Greater Manchester (Met county),abortion_per_1000,2004,21.2
 E11000001,Greater Manchester (Met county),percent_conceptions_abortion,2004,40.3
 E11000001,Greater Manchester (Met county),number_conceptions,2003,2667
-E11000001,Greater Manchester (Met county),conceptions_per_100,2003,52.3
-E11000001,Greater Manchester (Met county),maternity_per_100,2003,30.7
-E11000001,Greater Manchester (Met county),abortion_per_100,2003,21.6
+E11000001,Greater Manchester (Met county),conceptions_per_1000,2003,52.3
+E11000001,Greater Manchester (Met county),maternity_per_1000,2003,30.7
+E11000001,Greater Manchester (Met county),abortion_per_1000,2003,21.6
 E11000001,Greater Manchester (Met county),percent_conceptions_abortion,2003,41.4
 E11000001,Greater Manchester (Met county),number_conceptions,2002,2504
-E11000001,Greater Manchester (Met county),conceptions_per_100,2002,49.9
-E11000001,Greater Manchester (Met county),maternity_per_100,2002,30.9
-E11000001,Greater Manchester (Met county),abortion_per_100,2002,19
+E11000001,Greater Manchester (Met county),conceptions_per_1000,2002,49.9
+E11000001,Greater Manchester (Met county),maternity_per_1000,2002,30.9
+E11000001,Greater Manchester (Met county),abortion_per_1000,2002,19
 E11000001,Greater Manchester (Met county),percent_conceptions_abortion,2002,38.1
 E11000001,Greater Manchester (Met county),number_conceptions,2001,2546
-E11000001,Greater Manchester (Met county),conceptions_per_100,2001,51.6
-E11000001,Greater Manchester (Met county),maternity_per_100,2001,30.6
-E11000001,Greater Manchester (Met county),abortion_per_100,2001,21
+E11000001,Greater Manchester (Met county),conceptions_per_1000,2001,51.6
+E11000001,Greater Manchester (Met county),maternity_per_1000,2001,30.6
+E11000001,Greater Manchester (Met county),abortion_per_1000,2001,21
 E11000001,Greater Manchester (Met county),percent_conceptions_abortion,2001,40.7
 E11000001,Greater Manchester (Met county),number_conceptions,2000,2480
-E11000001,Greater Manchester (Met county),conceptions_per_100,2000,51.3
-E11000001,Greater Manchester (Met county),maternity_per_100,2000,31.1
-E11000001,Greater Manchester (Met county),abortion_per_100,2000,20.2
+E11000001,Greater Manchester (Met county),conceptions_per_1000,2000,51.3
+E11000001,Greater Manchester (Met county),maternity_per_1000,2000,31.1
+E11000001,Greater Manchester (Met county),abortion_per_1000,2000,20.2
 E11000001,Greater Manchester (Met county),percent_conceptions_abortion,2000,39.4
 E11000001,Greater Manchester (Met county),number_conceptions,1999,2569
-E11000001,Greater Manchester (Met county),conceptions_per_100,1999,53.3
-E11000001,Greater Manchester (Met county),maternity_per_100,1999,34.2
-E11000001,Greater Manchester (Met county),abortion_per_100,1999,19.1
+E11000001,Greater Manchester (Met county),conceptions_per_1000,1999,53.3
+E11000001,Greater Manchester (Met county),maternity_per_1000,1999,34.2
+E11000001,Greater Manchester (Met county),abortion_per_1000,1999,19.1
 E11000001,Greater Manchester (Met county),percent_conceptions_abortion,1999,35.9
 E11000001,Greater Manchester (Met county),number_conceptions,1998,2642
-E11000001,Greater Manchester (Met county),conceptions_per_100,1998,54.5
-E11000001,Greater Manchester (Met county),maternity_per_100,1998,35.4
-E11000001,Greater Manchester (Met county),abortion_per_100,1998,19.1
+E11000001,Greater Manchester (Met county),conceptions_per_1000,1998,54.5
+E11000001,Greater Manchester (Met county),maternity_per_1000,1998,35.4
+E11000001,Greater Manchester (Met county),abortion_per_1000,1998,19.1
 E11000001,Greater Manchester (Met county),percent_conceptions_abortion,1998,35.1
 E08000001,Bolton,number_conceptions,2017,105
-E08000001,Bolton,conceptions_per_100,2017,21.7
-E08000001,Bolton,maternity_per_100,2017,11.6
-E08000001,Bolton,abortion_per_100,2017,10.1
+E08000001,Bolton,conceptions_per_1000,2017,21.7
+E08000001,Bolton,maternity_per_1000,2017,11.6
+E08000001,Bolton,abortion_per_1000,2017,10.1
 E08000001,Bolton,percent_conceptions_abortion,2017,46.7
 E08000001,Bolton,number_conceptions,2016,98
-E08000001,Bolton,conceptions_per_100,2016,19.6
-E08000001,Bolton,maternity_per_100,2016,11
-E08000001,Bolton,abortion_per_100,2016,8.6
+E08000001,Bolton,conceptions_per_1000,2016,19.6
+E08000001,Bolton,maternity_per_1000,2016,11
+E08000001,Bolton,abortion_per_1000,2016,8.6
 E08000001,Bolton,percent_conceptions_abortion,2016,43.9
 E08000001,Bolton,number_conceptions,2015,126
-E08000001,Bolton,conceptions_per_100,2015,24.8
-E08000001,Bolton,maternity_per_100,2015,12
-E08000001,Bolton,abortion_per_100,2015,12.8
+E08000001,Bolton,conceptions_per_1000,2015,24.8
+E08000001,Bolton,maternity_per_1000,2015,12
+E08000001,Bolton,abortion_per_1000,2015,12.8
 E08000001,Bolton,percent_conceptions_abortion,2015,51.6
 E08000001,Bolton,number_conceptions,2014,125
-E08000001,Bolton,conceptions_per_100,2014,23.8
-E08000001,Bolton,maternity_per_100,2014,12.2
-E08000001,Bolton,abortion_per_100,2014,11.6
+E08000001,Bolton,conceptions_per_1000,2014,23.8
+E08000001,Bolton,maternity_per_1000,2014,12.2
+E08000001,Bolton,abortion_per_1000,2014,11.6
 E08000001,Bolton,percent_conceptions_abortion,2014,48.8
 E08000001,Bolton,number_conceptions,2013,145
-E08000001,Bolton,conceptions_per_100,2013,27.7
-E08000001,Bolton,maternity_per_100,2013,14.1
-E08000001,Bolton,abortion_per_100,2013,13.5
+E08000001,Bolton,conceptions_per_1000,2013,27.7
+E08000001,Bolton,maternity_per_1000,2013,14.1
+E08000001,Bolton,abortion_per_1000,2013,13.5
 E08000001,Bolton,percent_conceptions_abortion,2013,49
 E08000001,Bolton,number_conceptions,2012,163
-E08000001,Bolton,conceptions_per_100,2012,30.3
-E08000001,Bolton,maternity_per_100,2012,16
-E08000001,Bolton,abortion_per_100,2012,14.3
+E08000001,Bolton,conceptions_per_1000,2012,30.3
+E08000001,Bolton,maternity_per_1000,2012,16
+E08000001,Bolton,abortion_per_1000,2012,14.3
 E08000001,Bolton,percent_conceptions_abortion,2012,47.2
 E08000001,Bolton,number_conceptions,2011,213
-E08000001,Bolton,conceptions_per_100,2011,39.6
-E08000001,Bolton,maternity_per_100,2011,25.5
-E08000001,Bolton,abortion_per_100,2011,14.1
+E08000001,Bolton,conceptions_per_1000,2011,39.6
+E08000001,Bolton,maternity_per_1000,2011,25.5
+E08000001,Bolton,abortion_per_1000,2011,14.1
 E08000001,Bolton,percent_conceptions_abortion,2011,35.7
 E08000001,Bolton,number_conceptions,2010,198
-E08000001,Bolton,conceptions_per_100,2010,36.8
-E08000001,Bolton,maternity_per_100,2010,22.1
-E08000001,Bolton,abortion_per_100,2010,14.7
+E08000001,Bolton,conceptions_per_1000,2010,36.8
+E08000001,Bolton,maternity_per_1000,2010,22.1
+E08000001,Bolton,abortion_per_1000,2010,14.7
 E08000001,Bolton,percent_conceptions_abortion,2010,39.9
 E08000001,Bolton,number_conceptions,2009,251
-E08000001,Bolton,conceptions_per_100,2009,46.3
-E08000001,Bolton,maternity_per_100,2009,26.9
-E08000001,Bolton,abortion_per_100,2009,19.4
+E08000001,Bolton,conceptions_per_1000,2009,46.3
+E08000001,Bolton,maternity_per_1000,2009,26.9
+E08000001,Bolton,abortion_per_1000,2009,19.4
 E08000001,Bolton,percent_conceptions_abortion,2009,41.8
 E08000001,Bolton,number_conceptions,2008,273
-E08000001,Bolton,conceptions_per_100,2008,49.1
-E08000001,Bolton,maternity_per_100,2008,28.6
-E08000001,Bolton,abortion_per_100,2008,20.5
+E08000001,Bolton,conceptions_per_1000,2008,49.1
+E08000001,Bolton,maternity_per_1000,2008,28.6
+E08000001,Bolton,abortion_per_1000,2008,20.5
 E08000001,Bolton,percent_conceptions_abortion,2008,41.8
 E08000001,Bolton,number_conceptions,2007,261
-E08000001,Bolton,conceptions_per_100,2007,46.1
-E08000001,Bolton,maternity_per_100,2007,25.4
-E08000001,Bolton,abortion_per_100,2007,20.6
+E08000001,Bolton,conceptions_per_1000,2007,46.1
+E08000001,Bolton,maternity_per_1000,2007,25.4
+E08000001,Bolton,abortion_per_1000,2007,20.6
 E08000001,Bolton,percent_conceptions_abortion,2007,44.8
 E08000001,Bolton,number_conceptions,2006,273
-E08000001,Bolton,conceptions_per_100,2006,47.8
-E08000001,Bolton,maternity_per_100,2006,25.7
-E08000001,Bolton,abortion_per_100,2006,22
+E08000001,Bolton,conceptions_per_1000,2006,47.8
+E08000001,Bolton,maternity_per_1000,2006,25.7
+E08000001,Bolton,abortion_per_1000,2006,22
 E08000001,Bolton,percent_conceptions_abortion,2006,46.2
 E08000001,Bolton,number_conceptions,2005,296
-E08000001,Bolton,conceptions_per_100,2005,51.9
-E08000001,Bolton,maternity_per_100,2005,32.4
-E08000001,Bolton,abortion_per_100,2005,19.4
+E08000001,Bolton,conceptions_per_1000,2005,51.9
+E08000001,Bolton,maternity_per_1000,2005,32.4
+E08000001,Bolton,abortion_per_1000,2005,19.4
 E08000001,Bolton,percent_conceptions_abortion,2005,37.5
 E08000001,Bolton,number_conceptions,2004,298
-E08000001,Bolton,conceptions_per_100,2004,52.7
-E08000001,Bolton,maternity_per_100,2004,35.7
-E08000001,Bolton,abortion_per_100,2004,17
+E08000001,Bolton,conceptions_per_1000,2004,52.7
+E08000001,Bolton,maternity_per_1000,2004,35.7
+E08000001,Bolton,abortion_per_1000,2004,17
 E08000001,Bolton,percent_conceptions_abortion,2004,32.2
 E08000001,Bolton,number_conceptions,2003,276
-E08000001,Bolton,conceptions_per_100,2003,49.6
-E08000001,Bolton,maternity_per_100,2003,29.5
-E08000001,Bolton,abortion_per_100,2003,20.1
+E08000001,Bolton,conceptions_per_1000,2003,49.6
+E08000001,Bolton,maternity_per_1000,2003,29.5
+E08000001,Bolton,abortion_per_1000,2003,20.1
 E08000001,Bolton,percent_conceptions_abortion,2003,40.6
 E08000001,Bolton,number_conceptions,2002,286
-E08000001,Bolton,conceptions_per_100,2002,53.3
-E08000001,Bolton,maternity_per_100,2002,37.1
-E08000001,Bolton,abortion_per_100,2002,16.2
+E08000001,Bolton,conceptions_per_1000,2002,53.3
+E08000001,Bolton,maternity_per_1000,2002,37.1
+E08000001,Bolton,abortion_per_1000,2002,16.2
 E08000001,Bolton,percent_conceptions_abortion,2002,30.4
 E08000001,Bolton,number_conceptions,2001,252
-E08000001,Bolton,conceptions_per_100,2001,48.5
-E08000001,Bolton,maternity_per_100,2001,31.4
-E08000001,Bolton,abortion_per_100,2001,17.1
+E08000001,Bolton,conceptions_per_1000,2001,48.5
+E08000001,Bolton,maternity_per_1000,2001,31.4
+E08000001,Bolton,abortion_per_1000,2001,17.1
 E08000001,Bolton,percent_conceptions_abortion,2001,35.3
 E08000001,Bolton,number_conceptions,2000,272
-E08000001,Bolton,conceptions_per_100,2000,55.2
-E08000001,Bolton,maternity_per_100,2000,32
-E08000001,Bolton,abortion_per_100,2000,23.1
+E08000001,Bolton,conceptions_per_1000,2000,55.2
+E08000001,Bolton,maternity_per_1000,2000,32
+E08000001,Bolton,abortion_per_1000,2000,23.1
 E08000001,Bolton,percent_conceptions_abortion,2000,41.9
 E08000001,Bolton,number_conceptions,1999,272
-E08000001,Bolton,conceptions_per_100,1999,54.8
-E08000001,Bolton,maternity_per_100,1999,32.8
-E08000001,Bolton,abortion_per_100,1999,22
+E08000001,Bolton,conceptions_per_1000,1999,54.8
+E08000001,Bolton,maternity_per_1000,1999,32.8
+E08000001,Bolton,abortion_per_1000,1999,22
 E08000001,Bolton,percent_conceptions_abortion,1999,40.1
 E08000001,Bolton,number_conceptions,1998,249
-E08000001,Bolton,conceptions_per_100,1998,50.3
-E08000001,Bolton,maternity_per_100,1998,31.7
-E08000001,Bolton,abortion_per_100,1998,18.6
+E08000001,Bolton,conceptions_per_1000,1998,50.3
+E08000001,Bolton,maternity_per_1000,1998,31.7
+E08000001,Bolton,abortion_per_1000,1998,18.6
 E08000001,Bolton,percent_conceptions_abortion,1998,36.9
 E08000002,Bury,number_conceptions,2017,54
-E08000002,Bury,conceptions_per_100,2017,17
-E08000002,Bury,maternity_per_100,2017,7.3
-E08000002,Bury,abortion_per_100,2017,9.8
+E08000002,Bury,conceptions_per_1000,2017,17
+E08000002,Bury,maternity_per_1000,2017,7.3
+E08000002,Bury,abortion_per_1000,2017,9.8
 E08000002,Bury,percent_conceptions_abortion,2017,57.4
 E08000002,Bury,number_conceptions,2016,60
-E08000002,Bury,conceptions_per_100,2016,18.6
-E08000002,Bury,maternity_per_100,2016,7.1
-E08000002,Bury,abortion_per_100,2016,11.5
+E08000002,Bury,conceptions_per_1000,2016,18.6
+E08000002,Bury,maternity_per_1000,2016,7.1
+E08000002,Bury,abortion_per_1000,2016,11.5
 E08000002,Bury,percent_conceptions_abortion,2016,61.7
 E08000002,Bury,number_conceptions,2015,78
-E08000002,Bury,conceptions_per_100,2015,23.8
-E08000002,Bury,maternity_per_100,2015,11.6
-E08000002,Bury,abortion_per_100,2015,12.2
+E08000002,Bury,conceptions_per_1000,2015,23.8
+E08000002,Bury,maternity_per_1000,2015,11.6
+E08000002,Bury,abortion_per_1000,2015,12.2
 E08000002,Bury,percent_conceptions_abortion,2015,51.3
 E08000002,Bury,number_conceptions,2014,81
-E08000002,Bury,conceptions_per_100,2014,23.7
-E08000002,Bury,maternity_per_100,2014,9.7
-E08000002,Bury,abortion_per_100,2014,14.1
+E08000002,Bury,conceptions_per_1000,2014,23.7
+E08000002,Bury,maternity_per_1000,2014,9.7
+E08000002,Bury,abortion_per_1000,2014,14.1
 E08000002,Bury,percent_conceptions_abortion,2014,59.3
 E08000002,Bury,number_conceptions,2013,91
-E08000002,Bury,conceptions_per_100,2013,26.6
-E08000002,Bury,maternity_per_100,2013,12.9
-E08000002,Bury,abortion_per_100,2013,13.8
+E08000002,Bury,conceptions_per_1000,2013,26.6
+E08000002,Bury,maternity_per_1000,2013,12.9
+E08000002,Bury,abortion_per_1000,2013,13.8
 E08000002,Bury,percent_conceptions_abortion,2013,51.6
 E08000002,Bury,number_conceptions,2012,111
-E08000002,Bury,conceptions_per_100,2012,32.6
-E08000002,Bury,maternity_per_100,2012,15.8
-E08000002,Bury,abortion_per_100,2012,16.7
+E08000002,Bury,conceptions_per_1000,2012,32.6
+E08000002,Bury,maternity_per_1000,2012,15.8
+E08000002,Bury,abortion_per_1000,2012,16.7
 E08000002,Bury,percent_conceptions_abortion,2012,51.4
 E08000002,Bury,number_conceptions,2011,115
-E08000002,Bury,conceptions_per_100,2011,32.9
-E08000002,Bury,maternity_per_100,2011,17.2
-E08000002,Bury,abortion_per_100,2011,15.8
+E08000002,Bury,conceptions_per_1000,2011,32.9
+E08000002,Bury,maternity_per_1000,2011,17.2
+E08000002,Bury,abortion_per_1000,2011,15.8
 E08000002,Bury,percent_conceptions_abortion,2011,47.8
 E08000002,Bury,number_conceptions,2010,145
-E08000002,Bury,conceptions_per_100,2010,40.9
-E08000002,Bury,maternity_per_100,2010,19.2
-E08000002,Bury,abortion_per_100,2010,21.7
+E08000002,Bury,conceptions_per_1000,2010,40.9
+E08000002,Bury,maternity_per_1000,2010,19.2
+E08000002,Bury,abortion_per_1000,2010,21.7
 E08000002,Bury,percent_conceptions_abortion,2010,53.1
 E08000002,Bury,number_conceptions,2009,137
-E08000002,Bury,conceptions_per_100,2009,37.2
-E08000002,Bury,maternity_per_100,2009,17.9
-E08000002,Bury,abortion_per_100,2009,19.3
+E08000002,Bury,conceptions_per_1000,2009,37.2
+E08000002,Bury,maternity_per_1000,2009,17.9
+E08000002,Bury,abortion_per_1000,2009,19.3
 E08000002,Bury,percent_conceptions_abortion,2009,51.8
 E08000002,Bury,number_conceptions,2008,174
-E08000002,Bury,conceptions_per_100,2008,46.3
-E08000002,Bury,maternity_per_100,2008,19.1
-E08000002,Bury,abortion_per_100,2008,27.1
+E08000002,Bury,conceptions_per_1000,2008,46.3
+E08000002,Bury,maternity_per_1000,2008,19.1
+E08000002,Bury,abortion_per_1000,2008,27.1
 E08000002,Bury,percent_conceptions_abortion,2008,58.6
 E08000002,Bury,number_conceptions,2007,168
-E08000002,Bury,conceptions_per_100,2007,44.4
-E08000002,Bury,maternity_per_100,2007,20.1
-E08000002,Bury,abortion_per_100,2007,24.3
+E08000002,Bury,conceptions_per_1000,2007,44.4
+E08000002,Bury,maternity_per_1000,2007,20.1
+E08000002,Bury,abortion_per_1000,2007,24.3
 E08000002,Bury,percent_conceptions_abortion,2007,54.8
 E08000002,Bury,number_conceptions,2006,187
-E08000002,Bury,conceptions_per_100,2006,50.2
-E08000002,Bury,maternity_per_100,2006,26.6
-E08000002,Bury,abortion_per_100,2006,23.6
+E08000002,Bury,conceptions_per_1000,2006,50.2
+E08000002,Bury,maternity_per_1000,2006,26.6
+E08000002,Bury,abortion_per_1000,2006,23.6
 E08000002,Bury,percent_conceptions_abortion,2006,47.1
 E08000002,Bury,number_conceptions,2005,182
-E08000002,Bury,conceptions_per_100,2005,49.4
-E08000002,Bury,maternity_per_100,2005,25.5
-E08000002,Bury,abortion_per_100,2005,23.9
+E08000002,Bury,conceptions_per_1000,2005,49.4
+E08000002,Bury,maternity_per_1000,2005,25.5
+E08000002,Bury,abortion_per_1000,2005,23.9
 E08000002,Bury,percent_conceptions_abortion,2005,48.4
 E08000002,Bury,number_conceptions,2004,180
-E08000002,Bury,conceptions_per_100,2004,49
-E08000002,Bury,maternity_per_100,2004,26.4
-E08000002,Bury,abortion_per_100,2004,22.6
+E08000002,Bury,conceptions_per_1000,2004,49
+E08000002,Bury,maternity_per_1000,2004,26.4
+E08000002,Bury,abortion_per_1000,2004,22.6
 E08000002,Bury,percent_conceptions_abortion,2004,46.1
 E08000002,Bury,number_conceptions,2003,162
-E08000002,Bury,conceptions_per_100,2003,43.8
-E08000002,Bury,maternity_per_100,2003,24.9
-E08000002,Bury,abortion_per_100,2003,18.9
+E08000002,Bury,conceptions_per_1000,2003,43.8
+E08000002,Bury,maternity_per_1000,2003,24.9
+E08000002,Bury,abortion_per_1000,2003,18.9
 E08000002,Bury,percent_conceptions_abortion,2003,43.2
 E08000002,Bury,number_conceptions,2002,149
-E08000002,Bury,conceptions_per_100,2002,41
-E08000002,Bury,maternity_per_100,2002,23.1
-E08000002,Bury,abortion_per_100,2002,17.9
+E08000002,Bury,conceptions_per_1000,2002,41
+E08000002,Bury,maternity_per_1000,2002,23.1
+E08000002,Bury,abortion_per_1000,2002,17.9
 E08000002,Bury,percent_conceptions_abortion,2002,43.6
 E08000002,Bury,number_conceptions,2001,156
-E08000002,Bury,conceptions_per_100,2001,44.2
-E08000002,Bury,maternity_per_100,2001,23.5
-E08000002,Bury,abortion_per_100,2001,20.7
+E08000002,Bury,conceptions_per_1000,2001,44.2
+E08000002,Bury,maternity_per_1000,2001,23.5
+E08000002,Bury,abortion_per_1000,2001,20.7
 E08000002,Bury,percent_conceptions_abortion,2001,46.8
 E08000002,Bury,number_conceptions,2000,145
-E08000002,Bury,conceptions_per_100,2000,42.9
-E08000002,Bury,maternity_per_100,2000,26.3
-E08000002,Bury,abortion_per_100,2000,16.6
+E08000002,Bury,conceptions_per_1000,2000,42.9
+E08000002,Bury,maternity_per_1000,2000,26.3
+E08000002,Bury,abortion_per_1000,2000,16.6
 E08000002,Bury,percent_conceptions_abortion,2000,38.6
 E08000002,Bury,number_conceptions,1999,148
-E08000002,Bury,conceptions_per_100,1999,45.1
-E08000002,Bury,maternity_per_100,1999,25.9
-E08000002,Bury,abortion_per_100,1999,19.2
+E08000002,Bury,conceptions_per_1000,1999,45.1
+E08000002,Bury,maternity_per_1000,1999,25.9
+E08000002,Bury,abortion_per_1000,1999,19.2
 E08000002,Bury,percent_conceptions_abortion,1999,42.6
 E08000002,Bury,number_conceptions,1998,177
-E08000002,Bury,conceptions_per_100,1998,55.6
-E08000002,Bury,maternity_per_100,1998,32
-E08000002,Bury,abortion_per_100,1998,23.5
+E08000002,Bury,conceptions_per_1000,1998,55.6
+E08000002,Bury,maternity_per_1000,1998,32
+E08000002,Bury,abortion_per_1000,1998,23.5
 E08000002,Bury,percent_conceptions_abortion,1998,42.4
 E08000003,Manchester,number_conceptions,2017,185
-E08000003,Manchester,conceptions_per_100,2017,23.5
-E08000003,Manchester,maternity_per_100,2017,9.6
-E08000003,Manchester,abortion_per_100,2017,13.8
+E08000003,Manchester,conceptions_per_1000,2017,23.5
+E08000003,Manchester,maternity_per_1000,2017,9.6
+E08000003,Manchester,abortion_per_1000,2017,13.8
 E08000003,Manchester,percent_conceptions_abortion,2017,58.9
 E08000003,Manchester,number_conceptions,2016,207
-E08000003,Manchester,conceptions_per_100,2016,25.9
-E08000003,Manchester,maternity_per_100,2016,12
-E08000003,Manchester,abortion_per_100,2016,13.9
+E08000003,Manchester,conceptions_per_1000,2016,25.9
+E08000003,Manchester,maternity_per_1000,2016,12
+E08000003,Manchester,abortion_per_1000,2016,13.9
 E08000003,Manchester,percent_conceptions_abortion,2016,53.6
 E08000003,Manchester,number_conceptions,2015,229
-E08000003,Manchester,conceptions_per_100,2015,28.7
-E08000003,Manchester,maternity_per_100,2015,15.4
-E08000003,Manchester,abortion_per_100,2015,13.3
+E08000003,Manchester,conceptions_per_1000,2015,28.7
+E08000003,Manchester,maternity_per_1000,2015,15.4
+E08000003,Manchester,abortion_per_1000,2015,13.3
 E08000003,Manchester,percent_conceptions_abortion,2015,46.3
 E08000003,Manchester,number_conceptions,2014,257
-E08000003,Manchester,conceptions_per_100,2014,32.3
-E08000003,Manchester,maternity_per_100,2014,16.5
-E08000003,Manchester,abortion_per_100,2014,15.8
+E08000003,Manchester,conceptions_per_1000,2014,32.3
+E08000003,Manchester,maternity_per_1000,2014,16.5
+E08000003,Manchester,abortion_per_1000,2014,15.8
 E08000003,Manchester,percent_conceptions_abortion,2014,49
 E08000003,Manchester,number_conceptions,2013,286
-E08000003,Manchester,conceptions_per_100,2013,36.4
-E08000003,Manchester,maternity_per_100,2013,18.8
-E08000003,Manchester,abortion_per_100,2013,17.6
+E08000003,Manchester,conceptions_per_1000,2013,36.4
+E08000003,Manchester,maternity_per_1000,2013,18.8
+E08000003,Manchester,abortion_per_1000,2013,17.6
 E08000003,Manchester,percent_conceptions_abortion,2013,48.3
 E08000003,Manchester,number_conceptions,2012,353
-E08000003,Manchester,conceptions_per_100,2012,45
-E08000003,Manchester,maternity_per_100,2012,22.7
-E08000003,Manchester,abortion_per_100,2012,22.3
+E08000003,Manchester,conceptions_per_1000,2012,45
+E08000003,Manchester,maternity_per_1000,2012,22.7
+E08000003,Manchester,abortion_per_1000,2012,22.3
 E08000003,Manchester,percent_conceptions_abortion,2012,49.6
 E08000003,Manchester,number_conceptions,2011,411
-E08000003,Manchester,conceptions_per_100,2011,52.5
-E08000003,Manchester,maternity_per_100,2011,25.7
-E08000003,Manchester,abortion_per_100,2011,26.8
+E08000003,Manchester,conceptions_per_1000,2011,52.5
+E08000003,Manchester,maternity_per_1000,2011,25.7
+E08000003,Manchester,abortion_per_1000,2011,26.8
 E08000003,Manchester,percent_conceptions_abortion,2011,51.1
 E08000003,Manchester,number_conceptions,2010,398
-E08000003,Manchester,conceptions_per_100,2010,50.4
-E08000003,Manchester,maternity_per_100,2010,26.2
-E08000003,Manchester,abortion_per_100,2010,24.2
+E08000003,Manchester,conceptions_per_1000,2010,50.4
+E08000003,Manchester,maternity_per_1000,2010,26.2
+E08000003,Manchester,abortion_per_1000,2010,24.2
 E08000003,Manchester,percent_conceptions_abortion,2010,48
 E08000003,Manchester,number_conceptions,2009,491
-E08000003,Manchester,conceptions_per_100,2009,59.2
-E08000003,Manchester,maternity_per_100,2009,29.8
-E08000003,Manchester,abortion_per_100,2009,29.4
+E08000003,Manchester,conceptions_per_1000,2009,59.2
+E08000003,Manchester,maternity_per_1000,2009,29.8
+E08000003,Manchester,abortion_per_1000,2009,29.4
 E08000003,Manchester,percent_conceptions_abortion,2009,49.7
 E08000003,Manchester,number_conceptions,2008,524
-E08000003,Manchester,conceptions_per_100,2008,61.7
-E08000003,Manchester,maternity_per_100,2008,31.6
-E08000003,Manchester,abortion_per_100,2008,30.2
+E08000003,Manchester,conceptions_per_1000,2008,61.7
+E08000003,Manchester,maternity_per_1000,2008,31.6
+E08000003,Manchester,abortion_per_1000,2008,30.2
 E08000003,Manchester,percent_conceptions_abortion,2008,48.9
 E08000003,Manchester,number_conceptions,2007,559
-E08000003,Manchester,conceptions_per_100,2007,68.5
-E08000003,Manchester,maternity_per_100,2007,36.4
-E08000003,Manchester,abortion_per_100,2007,32.1
+E08000003,Manchester,conceptions_per_1000,2007,68.5
+E08000003,Manchester,maternity_per_1000,2007,36.4
+E08000003,Manchester,abortion_per_1000,2007,32.1
 E08000003,Manchester,percent_conceptions_abortion,2007,46.9
 E08000003,Manchester,number_conceptions,2006,537
-E08000003,Manchester,conceptions_per_100,2006,67.7
-E08000003,Manchester,maternity_per_100,2006,41.1
-E08000003,Manchester,abortion_per_100,2006,26.6
+E08000003,Manchester,conceptions_per_1000,2006,67.7
+E08000003,Manchester,maternity_per_1000,2006,41.1
+E08000003,Manchester,abortion_per_1000,2006,26.6
 E08000003,Manchester,percent_conceptions_abortion,2006,39.3
 E08000003,Manchester,number_conceptions,2005,591
-E08000003,Manchester,conceptions_per_100,2005,73.9
-E08000003,Manchester,maternity_per_100,2005,44.3
-E08000003,Manchester,abortion_per_100,2005,29.6
+E08000003,Manchester,conceptions_per_1000,2005,73.9
+E08000003,Manchester,maternity_per_1000,2005,44.3
+E08000003,Manchester,abortion_per_1000,2005,29.6
 E08000003,Manchester,percent_conceptions_abortion,2005,40.1
 E08000003,Manchester,number_conceptions,2004,558
-E08000003,Manchester,conceptions_per_100,2004,68.3
-E08000003,Manchester,maternity_per_100,2004,42.7
-E08000003,Manchester,abortion_per_100,2004,25.6
+E08000003,Manchester,conceptions_per_1000,2004,68.3
+E08000003,Manchester,maternity_per_1000,2004,42.7
+E08000003,Manchester,abortion_per_1000,2004,25.6
 E08000003,Manchester,percent_conceptions_abortion,2004,37.5
 E08000003,Manchester,number_conceptions,2003,564
-E08000003,Manchester,conceptions_per_100,2003,67.9
-E08000003,Manchester,maternity_per_100,2003,42.5
-E08000003,Manchester,abortion_per_100,2003,25.4
+E08000003,Manchester,conceptions_per_1000,2003,67.9
+E08000003,Manchester,maternity_per_1000,2003,42.5
+E08000003,Manchester,abortion_per_1000,2003,25.4
 E08000003,Manchester,percent_conceptions_abortion,2003,37.4
 E08000003,Manchester,number_conceptions,2002,508
-E08000003,Manchester,conceptions_per_100,2002,61.9
-E08000003,Manchester,maternity_per_100,2002,40.6
-E08000003,Manchester,abortion_per_100,2002,21.3
+E08000003,Manchester,conceptions_per_1000,2002,61.9
+E08000003,Manchester,maternity_per_1000,2002,40.6
+E08000003,Manchester,abortion_per_1000,2002,21.3
 E08000003,Manchester,percent_conceptions_abortion,2002,34.4
 E08000003,Manchester,number_conceptions,2001,541
-E08000003,Manchester,conceptions_per_100,2001,69
-E08000003,Manchester,maternity_per_100,2001,43.7
-E08000003,Manchester,abortion_per_100,2001,25.2
+E08000003,Manchester,conceptions_per_1000,2001,69
+E08000003,Manchester,maternity_per_1000,2001,43.7
+E08000003,Manchester,abortion_per_1000,2001,25.2
 E08000003,Manchester,percent_conceptions_abortion,2001,36.6
 E08000003,Manchester,number_conceptions,2000,525
-E08000003,Manchester,conceptions_per_100,2000,65.9
-E08000003,Manchester,maternity_per_100,2000,42.9
-E08000003,Manchester,abortion_per_100,2000,23
+E08000003,Manchester,conceptions_per_1000,2000,65.9
+E08000003,Manchester,maternity_per_1000,2000,42.9
+E08000003,Manchester,abortion_per_1000,2000,23
 E08000003,Manchester,percent_conceptions_abortion,2000,34.9
 E08000003,Manchester,number_conceptions,1999,492
-E08000003,Manchester,conceptions_per_100,1999,59.9
-E08000003,Manchester,maternity_per_100,1999,39.9
-E08000003,Manchester,abortion_per_100,1999,20
+E08000003,Manchester,conceptions_per_1000,1999,59.9
+E08000003,Manchester,maternity_per_1000,1999,39.9
+E08000003,Manchester,abortion_per_1000,1999,20
 E08000003,Manchester,percent_conceptions_abortion,1999,33.3
 E08000003,Manchester,number_conceptions,1998,540
-E08000003,Manchester,conceptions_per_100,1998,61.3
-E08000003,Manchester,maternity_per_100,1998,44
-E08000003,Manchester,abortion_per_100,1998,17.4
+E08000003,Manchester,conceptions_per_1000,1998,61.3
+E08000003,Manchester,maternity_per_1000,1998,44
+E08000003,Manchester,abortion_per_1000,1998,17.4
 E08000003,Manchester,percent_conceptions_abortion,1998,28.3
 E08000004,Oldham,number_conceptions,2017,114
-E08000004,Oldham,conceptions_per_100,2017,25.7
-E08000004,Oldham,maternity_per_100,2017,14.7
-E08000004,Oldham,abortion_per_100,2017,11.1
+E08000004,Oldham,conceptions_per_1000,2017,25.7
+E08000004,Oldham,maternity_per_1000,2017,14.7
+E08000004,Oldham,abortion_per_1000,2017,11.1
 E08000004,Oldham,percent_conceptions_abortion,2017,43
 E08000004,Oldham,number_conceptions,2016,119
-E08000004,Oldham,conceptions_per_100,2016,26.9
-E08000004,Oldham,maternity_per_100,2016,14.7
-E08000004,Oldham,abortion_per_100,2016,12.2
+E08000004,Oldham,conceptions_per_1000,2016,26.9
+E08000004,Oldham,maternity_per_1000,2016,14.7
+E08000004,Oldham,abortion_per_1000,2016,12.2
 E08000004,Oldham,percent_conceptions_abortion,2016,45.4
 E08000004,Oldham,number_conceptions,2015,97
-E08000004,Oldham,conceptions_per_100,2015,22
-E08000004,Oldham,maternity_per_100,2015,11.6
-E08000004,Oldham,abortion_per_100,2015,10.4
+E08000004,Oldham,conceptions_per_1000,2015,22
+E08000004,Oldham,maternity_per_1000,2015,11.6
+E08000004,Oldham,abortion_per_1000,2015,10.4
 E08000004,Oldham,percent_conceptions_abortion,2015,47.4
 E08000004,Oldham,number_conceptions,2014,156
-E08000004,Oldham,conceptions_per_100,2014,34.6
-E08000004,Oldham,maternity_per_100,2014,16.4
-E08000004,Oldham,abortion_per_100,2014,18.2
+E08000004,Oldham,conceptions_per_1000,2014,34.6
+E08000004,Oldham,maternity_per_1000,2014,16.4
+E08000004,Oldham,abortion_per_1000,2014,18.2
 E08000004,Oldham,percent_conceptions_abortion,2014,52.6
 E08000004,Oldham,number_conceptions,2013,141
-E08000004,Oldham,conceptions_per_100,2013,30.6
-E08000004,Oldham,maternity_per_100,2013,15
-E08000004,Oldham,abortion_per_100,2013,15.6
+E08000004,Oldham,conceptions_per_1000,2013,30.6
+E08000004,Oldham,maternity_per_1000,2013,15
+E08000004,Oldham,abortion_per_1000,2013,15.6
 E08000004,Oldham,percent_conceptions_abortion,2013,51.1
 E08000004,Oldham,number_conceptions,2012,154
-E08000004,Oldham,conceptions_per_100,2012,33.1
-E08000004,Oldham,maternity_per_100,2012,18.9
-E08000004,Oldham,abortion_per_100,2012,14.2
+E08000004,Oldham,conceptions_per_1000,2012,33.1
+E08000004,Oldham,maternity_per_1000,2012,18.9
+E08000004,Oldham,abortion_per_1000,2012,14.2
 E08000004,Oldham,percent_conceptions_abortion,2012,42.9
 E08000004,Oldham,number_conceptions,2011,167
-E08000004,Oldham,conceptions_per_100,2011,36.5
-E08000004,Oldham,maternity_per_100,2011,20.5
-E08000004,Oldham,abortion_per_100,2011,15.9
+E08000004,Oldham,conceptions_per_1000,2011,36.5
+E08000004,Oldham,maternity_per_1000,2011,20.5
+E08000004,Oldham,abortion_per_1000,2011,15.9
 E08000004,Oldham,percent_conceptions_abortion,2011,43.7
 E08000004,Oldham,number_conceptions,2010,183
-E08000004,Oldham,conceptions_per_100,2010,39.8
-E08000004,Oldham,maternity_per_100,2010,19.6
-E08000004,Oldham,abortion_per_100,2010,20.2
+E08000004,Oldham,conceptions_per_1000,2010,39.8
+E08000004,Oldham,maternity_per_1000,2010,19.6
+E08000004,Oldham,abortion_per_1000,2010,20.2
 E08000004,Oldham,percent_conceptions_abortion,2010,50.8
 E08000004,Oldham,number_conceptions,2009,190
-E08000004,Oldham,conceptions_per_100,2009,41.3
-E08000004,Oldham,maternity_per_100,2009,18
-E08000004,Oldham,abortion_per_100,2009,23.2
+E08000004,Oldham,conceptions_per_1000,2009,41.3
+E08000004,Oldham,maternity_per_1000,2009,18
+E08000004,Oldham,abortion_per_1000,2009,23.2
 E08000004,Oldham,percent_conceptions_abortion,2009,56.3
 E08000004,Oldham,number_conceptions,2008,186
-E08000004,Oldham,conceptions_per_100,2008,39.9
-E08000004,Oldham,maternity_per_100,2008,23.2
-E08000004,Oldham,abortion_per_100,2008,16.7
+E08000004,Oldham,conceptions_per_1000,2008,39.9
+E08000004,Oldham,maternity_per_1000,2008,23.2
+E08000004,Oldham,abortion_per_1000,2008,16.7
 E08000004,Oldham,percent_conceptions_abortion,2008,41.9
 E08000004,Oldham,number_conceptions,2007,211
-E08000004,Oldham,conceptions_per_100,2007,45.8
-E08000004,Oldham,maternity_per_100,2007,25.6
-E08000004,Oldham,abortion_per_100,2007,20.2
+E08000004,Oldham,conceptions_per_1000,2007,45.8
+E08000004,Oldham,maternity_per_1000,2007,25.6
+E08000004,Oldham,abortion_per_1000,2007,20.2
 E08000004,Oldham,percent_conceptions_abortion,2007,44.1
 E08000004,Oldham,number_conceptions,2006,202
-E08000004,Oldham,conceptions_per_100,2006,43.7
-E08000004,Oldham,maternity_per_100,2006,23.6
-E08000004,Oldham,abortion_per_100,2006,20.1
+E08000004,Oldham,conceptions_per_1000,2006,43.7
+E08000004,Oldham,maternity_per_1000,2006,23.6
+E08000004,Oldham,abortion_per_1000,2006,20.1
 E08000004,Oldham,percent_conceptions_abortion,2006,46
 E08000004,Oldham,number_conceptions,2005,217
-E08000004,Oldham,conceptions_per_100,2005,46.9
-E08000004,Oldham,maternity_per_100,2005,27.2
-E08000004,Oldham,abortion_per_100,2005,19.7
+E08000004,Oldham,conceptions_per_1000,2005,46.9
+E08000004,Oldham,maternity_per_1000,2005,27.2
+E08000004,Oldham,abortion_per_1000,2005,19.7
 E08000004,Oldham,percent_conceptions_abortion,2005,41.9
 E08000004,Oldham,number_conceptions,2004,273
-E08000004,Oldham,conceptions_per_100,2004,58.7
-E08000004,Oldham,maternity_per_100,2004,35.9
-E08000004,Oldham,abortion_per_100,2004,22.8
+E08000004,Oldham,conceptions_per_1000,2004,58.7
+E08000004,Oldham,maternity_per_1000,2004,35.9
+E08000004,Oldham,abortion_per_1000,2004,22.8
 E08000004,Oldham,percent_conceptions_abortion,2004,38.8
 E08000004,Oldham,number_conceptions,2003,256
-E08000004,Oldham,conceptions_per_100,2003,54.3
-E08000004,Oldham,maternity_per_100,2003,32.9
-E08000004,Oldham,abortion_per_100,2003,21.4
+E08000004,Oldham,conceptions_per_1000,2003,54.3
+E08000004,Oldham,maternity_per_1000,2003,32.9
+E08000004,Oldham,abortion_per_1000,2003,21.4
 E08000004,Oldham,percent_conceptions_abortion,2003,39.5
 E08000004,Oldham,number_conceptions,2002,258
-E08000004,Oldham,conceptions_per_100,2002,55.3
-E08000004,Oldham,maternity_per_100,2002,37.5
-E08000004,Oldham,abortion_per_100,2002,17.8
+E08000004,Oldham,conceptions_per_1000,2002,55.3
+E08000004,Oldham,maternity_per_1000,2002,37.5
+E08000004,Oldham,abortion_per_1000,2002,17.8
 E08000004,Oldham,percent_conceptions_abortion,2002,32.2
 E08000004,Oldham,number_conceptions,2001,276
-E08000004,Oldham,conceptions_per_100,2001,59.3
-E08000004,Oldham,maternity_per_100,2001,36.1
-E08000004,Oldham,abortion_per_100,2001,23.2
+E08000004,Oldham,conceptions_per_1000,2001,59.3
+E08000004,Oldham,maternity_per_1000,2001,36.1
+E08000004,Oldham,abortion_per_1000,2001,23.2
 E08000004,Oldham,percent_conceptions_abortion,2001,39.1
 E08000004,Oldham,number_conceptions,2000,239
-E08000004,Oldham,conceptions_per_100,2000,53
-E08000004,Oldham,maternity_per_100,2000,32.4
-E08000004,Oldham,abortion_per_100,2000,20.6
+E08000004,Oldham,conceptions_per_1000,2000,53
+E08000004,Oldham,maternity_per_1000,2000,32.4
+E08000004,Oldham,abortion_per_1000,2000,20.6
 E08000004,Oldham,percent_conceptions_abortion,2000,38.9
 E08000004,Oldham,number_conceptions,1999,249
-E08000004,Oldham,conceptions_per_100,1999,57
-E08000004,Oldham,maternity_per_100,1999,36.6
-E08000004,Oldham,abortion_per_100,1999,20.4
+E08000004,Oldham,conceptions_per_1000,1999,57
+E08000004,Oldham,maternity_per_1000,1999,36.6
+E08000004,Oldham,abortion_per_1000,1999,20.4
 E08000004,Oldham,percent_conceptions_abortion,1999,35.7
 E08000004,Oldham,number_conceptions,1998,290
-E08000004,Oldham,conceptions_per_100,1998,66.1
-E08000004,Oldham,maternity_per_100,1998,44.5
-E08000004,Oldham,abortion_per_100,1998,21.7
+E08000004,Oldham,conceptions_per_1000,1998,66.1
+E08000004,Oldham,maternity_per_1000,1998,44.5
+E08000004,Oldham,abortion_per_1000,1998,21.7
 E08000004,Oldham,percent_conceptions_abortion,1998,32.8
 E08000005,Rochdale,number_conceptions,2017,84
-E08000005,Rochdale,conceptions_per_100,2017,22.9
-E08000005,Rochdale,maternity_per_100,2017,11.2
-E08000005,Rochdale,abortion_per_100,2017,11.7
+E08000005,Rochdale,conceptions_per_1000,2017,22.9
+E08000005,Rochdale,maternity_per_1000,2017,11.2
+E08000005,Rochdale,abortion_per_1000,2017,11.7
 E08000005,Rochdale,percent_conceptions_abortion,2017,51.2
 E08000005,Rochdale,number_conceptions,2016,82
-E08000005,Rochdale,conceptions_per_100,2016,21.2
-E08000005,Rochdale,maternity_per_100,2016,13.2
-E08000005,Rochdale,abortion_per_100,2016,8
+E08000005,Rochdale,conceptions_per_1000,2016,21.2
+E08000005,Rochdale,maternity_per_1000,2016,13.2
+E08000005,Rochdale,abortion_per_1000,2016,8
 E08000005,Rochdale,percent_conceptions_abortion,2016,37.8
 E08000005,Rochdale,number_conceptions,2015,88
-E08000005,Rochdale,conceptions_per_100,2015,22
-E08000005,Rochdale,maternity_per_100,2015,11
-E08000005,Rochdale,abortion_per_100,2015,11
+E08000005,Rochdale,conceptions_per_1000,2015,22
+E08000005,Rochdale,maternity_per_1000,2015,11
+E08000005,Rochdale,abortion_per_1000,2015,11
 E08000005,Rochdale,percent_conceptions_abortion,2015,50
 E08000005,Rochdale,number_conceptions,2014,130
-E08000005,Rochdale,conceptions_per_100,2014,30.8
-E08000005,Rochdale,maternity_per_100,2014,12.8
-E08000005,Rochdale,abortion_per_100,2014,18
+E08000005,Rochdale,conceptions_per_1000,2014,30.8
+E08000005,Rochdale,maternity_per_1000,2014,12.8
+E08000005,Rochdale,abortion_per_1000,2014,18
 E08000005,Rochdale,percent_conceptions_abortion,2014,58.5
 E08000005,Rochdale,number_conceptions,2013,113
-E08000005,Rochdale,conceptions_per_100,2013,26.1
-E08000005,Rochdale,maternity_per_100,2013,11.6
-E08000005,Rochdale,abortion_per_100,2013,14.6
+E08000005,Rochdale,conceptions_per_1000,2013,26.1
+E08000005,Rochdale,maternity_per_1000,2013,11.6
+E08000005,Rochdale,abortion_per_1000,2013,14.6
 E08000005,Rochdale,percent_conceptions_abortion,2013,55.8
 E08000005,Rochdale,number_conceptions,2012,153
-E08000005,Rochdale,conceptions_per_100,2012,35
-E08000005,Rochdale,maternity_per_100,2012,20.1
-E08000005,Rochdale,abortion_per_100,2012,14.9
+E08000005,Rochdale,conceptions_per_1000,2012,35
+E08000005,Rochdale,maternity_per_1000,2012,20.1
+E08000005,Rochdale,abortion_per_1000,2012,14.9
 E08000005,Rochdale,percent_conceptions_abortion,2012,42.5
 E08000005,Rochdale,number_conceptions,2011,137
-E08000005,Rochdale,conceptions_per_100,2011,31.7
-E08000005,Rochdale,maternity_per_100,2011,16.6
-E08000005,Rochdale,abortion_per_100,2011,15
+E08000005,Rochdale,conceptions_per_1000,2011,31.7
+E08000005,Rochdale,maternity_per_1000,2011,16.6
+E08000005,Rochdale,abortion_per_1000,2011,15
 E08000005,Rochdale,percent_conceptions_abortion,2011,47.4
 E08000005,Rochdale,number_conceptions,2010,152
-E08000005,Rochdale,conceptions_per_100,2010,35.3
-E08000005,Rochdale,maternity_per_100,2010,17.9
-E08000005,Rochdale,abortion_per_100,2010,17.4
+E08000005,Rochdale,conceptions_per_1000,2010,35.3
+E08000005,Rochdale,maternity_per_1000,2010,17.9
+E08000005,Rochdale,abortion_per_1000,2010,17.4
 E08000005,Rochdale,percent_conceptions_abortion,2010,49.3
 E08000005,Rochdale,number_conceptions,2009,200
-E08000005,Rochdale,conceptions_per_100,2009,45
-E08000005,Rochdale,maternity_per_100,2009,25.4
-E08000005,Rochdale,abortion_per_100,2009,19.6
+E08000005,Rochdale,conceptions_per_1000,2009,45
+E08000005,Rochdale,maternity_per_1000,2009,25.4
+E08000005,Rochdale,abortion_per_1000,2009,19.6
 E08000005,Rochdale,percent_conceptions_abortion,2009,43.5
 E08000005,Rochdale,number_conceptions,2008,242
-E08000005,Rochdale,conceptions_per_100,2008,52.7
-E08000005,Rochdale,maternity_per_100,2008,30.5
-E08000005,Rochdale,abortion_per_100,2008,22.2
+E08000005,Rochdale,conceptions_per_1000,2008,52.7
+E08000005,Rochdale,maternity_per_1000,2008,30.5
+E08000005,Rochdale,abortion_per_1000,2008,22.2
 E08000005,Rochdale,percent_conceptions_abortion,2008,42.1
 E08000005,Rochdale,number_conceptions,2007,218
-E08000005,Rochdale,conceptions_per_100,2007,46.4
-E08000005,Rochdale,maternity_per_100,2007,27.4
-E08000005,Rochdale,abortion_per_100,2007,18.9
+E08000005,Rochdale,conceptions_per_1000,2007,46.4
+E08000005,Rochdale,maternity_per_1000,2007,27.4
+E08000005,Rochdale,abortion_per_1000,2007,18.9
 E08000005,Rochdale,percent_conceptions_abortion,2007,40.8
 E08000005,Rochdale,number_conceptions,2006,220
-E08000005,Rochdale,conceptions_per_100,2006,47.6
-E08000005,Rochdale,maternity_per_100,2006,28.3
-E08000005,Rochdale,abortion_per_100,2006,19.2
+E08000005,Rochdale,conceptions_per_1000,2006,47.6
+E08000005,Rochdale,maternity_per_1000,2006,28.3
+E08000005,Rochdale,abortion_per_1000,2006,19.2
 E08000005,Rochdale,percent_conceptions_abortion,2006,40.5
 E08000005,Rochdale,number_conceptions,2005,227
-E08000005,Rochdale,conceptions_per_100,2005,49.1
-E08000005,Rochdale,maternity_per_100,2005,28.6
-E08000005,Rochdale,abortion_per_100,2005,20.6
+E08000005,Rochdale,conceptions_per_1000,2005,49.1
+E08000005,Rochdale,maternity_per_1000,2005,28.6
+E08000005,Rochdale,abortion_per_1000,2005,20.6
 E08000005,Rochdale,percent_conceptions_abortion,2005,41.9
 E08000005,Rochdale,number_conceptions,2004,242
-E08000005,Rochdale,conceptions_per_100,2004,52.8
-E08000005,Rochdale,maternity_per_100,2004,36
-E08000005,Rochdale,abortion_per_100,2004,16.8
+E08000005,Rochdale,conceptions_per_1000,2004,52.8
+E08000005,Rochdale,maternity_per_1000,2004,36
+E08000005,Rochdale,abortion_per_1000,2004,16.8
 E08000005,Rochdale,percent_conceptions_abortion,2004,31.8
 E08000005,Rochdale,number_conceptions,2003,236
-E08000005,Rochdale,conceptions_per_100,2003,51.3
-E08000005,Rochdale,maternity_per_100,2003,31.8
-E08000005,Rochdale,abortion_per_100,2003,19.6
+E08000005,Rochdale,conceptions_per_1000,2003,51.3
+E08000005,Rochdale,maternity_per_1000,2003,31.8
+E08000005,Rochdale,abortion_per_1000,2003,19.6
 E08000005,Rochdale,percent_conceptions_abortion,2003,38.1
 E08000005,Rochdale,number_conceptions,2002,212
-E08000005,Rochdale,conceptions_per_100,2002,47.1
-E08000005,Rochdale,maternity_per_100,2002,31.5
-E08000005,Rochdale,abortion_per_100,2002,15.5
+E08000005,Rochdale,conceptions_per_1000,2002,47.1
+E08000005,Rochdale,maternity_per_1000,2002,31.5
+E08000005,Rochdale,abortion_per_1000,2002,15.5
 E08000005,Rochdale,percent_conceptions_abortion,2002,33
 E08000005,Rochdale,number_conceptions,2001,221
-E08000005,Rochdale,conceptions_per_100,2001,50.4
-E08000005,Rochdale,maternity_per_100,2001,31.7
-E08000005,Rochdale,abortion_per_100,2001,18.7
+E08000005,Rochdale,conceptions_per_1000,2001,50.4
+E08000005,Rochdale,maternity_per_1000,2001,31.7
+E08000005,Rochdale,abortion_per_1000,2001,18.7
 E08000005,Rochdale,percent_conceptions_abortion,2001,37.1
 E08000005,Rochdale,number_conceptions,2000,241
-E08000005,Rochdale,conceptions_per_100,2000,56.3
-E08000005,Rochdale,maternity_per_100,2000,38.6
-E08000005,Rochdale,abortion_per_100,2000,17.8
+E08000005,Rochdale,conceptions_per_1000,2000,56.3
+E08000005,Rochdale,maternity_per_1000,2000,38.6
+E08000005,Rochdale,abortion_per_1000,2000,17.8
 E08000005,Rochdale,percent_conceptions_abortion,2000,31.5
 E08000005,Rochdale,number_conceptions,1999,229
-E08000005,Rochdale,conceptions_per_100,1999,54.4
-E08000005,Rochdale,maternity_per_100,1999,39.9
-E08000005,Rochdale,abortion_per_100,1999,14.5
+E08000005,Rochdale,conceptions_per_1000,1999,54.4
+E08000005,Rochdale,maternity_per_1000,1999,39.9
+E08000005,Rochdale,abortion_per_1000,1999,14.5
 E08000005,Rochdale,percent_conceptions_abortion,1999,26.6
 E08000005,Rochdale,number_conceptions,1998,256
-E08000005,Rochdale,conceptions_per_100,1998,61.9
-E08000005,Rochdale,maternity_per_100,1998,41.8
-E08000005,Rochdale,abortion_per_100,1998,20.1
+E08000005,Rochdale,conceptions_per_1000,1998,61.9
+E08000005,Rochdale,maternity_per_1000,1998,41.8
+E08000005,Rochdale,abortion_per_1000,1998,20.1
 E08000005,Rochdale,percent_conceptions_abortion,1998,32.4
 E08000006,Salford,number_conceptions,2017,117
-E08000006,Salford,conceptions_per_100,2017,30.7
-E08000006,Salford,maternity_per_100,2017,14.1
-E08000006,Salford,abortion_per_100,2017,16.5
+E08000006,Salford,conceptions_per_1000,2017,30.7
+E08000006,Salford,maternity_per_1000,2017,14.1
+E08000006,Salford,abortion_per_1000,2017,16.5
 E08000006,Salford,percent_conceptions_abortion,2017,53.8
 E08000006,Salford,number_conceptions,2016,123
-E08000006,Salford,conceptions_per_100,2016,31.5
-E08000006,Salford,maternity_per_100,2016,13.6
-E08000006,Salford,abortion_per_100,2016,17.9
+E08000006,Salford,conceptions_per_1000,2016,31.5
+E08000006,Salford,maternity_per_1000,2016,13.6
+E08000006,Salford,abortion_per_1000,2016,17.9
 E08000006,Salford,percent_conceptions_abortion,2016,56.9
 E08000006,Salford,number_conceptions,2015,127
-E08000006,Salford,conceptions_per_100,2015,32
-E08000006,Salford,maternity_per_100,2015,15.1
-E08000006,Salford,abortion_per_100,2015,16.9
+E08000006,Salford,conceptions_per_1000,2015,32
+E08000006,Salford,maternity_per_1000,2015,15.1
+E08000006,Salford,abortion_per_1000,2015,16.9
 E08000006,Salford,percent_conceptions_abortion,2015,52.8
 E08000006,Salford,number_conceptions,2014,125
-E08000006,Salford,conceptions_per_100,2014,31.3
-E08000006,Salford,maternity_per_100,2014,14.3
-E08000006,Salford,abortion_per_100,2014,17
+E08000006,Salford,conceptions_per_1000,2014,31.3
+E08000006,Salford,maternity_per_1000,2014,14.3
+E08000006,Salford,abortion_per_1000,2014,17
 E08000006,Salford,percent_conceptions_abortion,2014,54.4
 E08000006,Salford,number_conceptions,2013,123
-E08000006,Salford,conceptions_per_100,2013,30.4
-E08000006,Salford,maternity_per_100,2013,15.1
-E08000006,Salford,abortion_per_100,2013,15.3
+E08000006,Salford,conceptions_per_1000,2013,30.4
+E08000006,Salford,maternity_per_1000,2013,15.1
+E08000006,Salford,abortion_per_1000,2013,15.3
 E08000006,Salford,percent_conceptions_abortion,2013,50.4
 E08000006,Salford,number_conceptions,2012,156
-E08000006,Salford,conceptions_per_100,2012,37.8
-E08000006,Salford,maternity_per_100,2012,17.2
-E08000006,Salford,abortion_per_100,2012,20.6
+E08000006,Salford,conceptions_per_1000,2012,37.8
+E08000006,Salford,maternity_per_1000,2012,17.2
+E08000006,Salford,abortion_per_1000,2012,20.6
 E08000006,Salford,percent_conceptions_abortion,2012,54.5
 E08000006,Salford,number_conceptions,2011,174
-E08000006,Salford,conceptions_per_100,2011,41.9
-E08000006,Salford,maternity_per_100,2011,22.2
-E08000006,Salford,abortion_per_100,2011,19.8
+E08000006,Salford,conceptions_per_1000,2011,41.9
+E08000006,Salford,maternity_per_1000,2011,22.2
+E08000006,Salford,abortion_per_1000,2011,19.8
 E08000006,Salford,percent_conceptions_abortion,2011,47.1
 E08000006,Salford,number_conceptions,2010,223
-E08000006,Salford,conceptions_per_100,2010,54
-E08000006,Salford,maternity_per_100,2010,29.5
-E08000006,Salford,abortion_per_100,2010,24.4
+E08000006,Salford,conceptions_per_1000,2010,54
+E08000006,Salford,maternity_per_1000,2010,29.5
+E08000006,Salford,abortion_per_1000,2010,24.4
 E08000006,Salford,percent_conceptions_abortion,2010,45.3
 E08000006,Salford,number_conceptions,2009,221
-E08000006,Salford,conceptions_per_100,2009,52.4
-E08000006,Salford,maternity_per_100,2009,30.4
-E08000006,Salford,abortion_per_100,2009,22.1
+E08000006,Salford,conceptions_per_1000,2009,52.4
+E08000006,Salford,maternity_per_1000,2009,30.4
+E08000006,Salford,abortion_per_1000,2009,22.1
 E08000006,Salford,percent_conceptions_abortion,2009,42.1
 E08000006,Salford,number_conceptions,2008,249
-E08000006,Salford,conceptions_per_100,2008,59.1
-E08000006,Salford,maternity_per_100,2008,34.7
-E08000006,Salford,abortion_per_100,2008,24.4
+E08000006,Salford,conceptions_per_1000,2008,59.1
+E08000006,Salford,maternity_per_1000,2008,34.7
+E08000006,Salford,abortion_per_1000,2008,24.4
 E08000006,Salford,percent_conceptions_abortion,2008,41.4
 E08000006,Salford,number_conceptions,2007,266
-E08000006,Salford,conceptions_per_100,2007,65
-E08000006,Salford,maternity_per_100,2007,35.2
-E08000006,Salford,abortion_per_100,2007,29.8
+E08000006,Salford,conceptions_per_1000,2007,65
+E08000006,Salford,maternity_per_1000,2007,35.2
+E08000006,Salford,abortion_per_1000,2007,29.8
 E08000006,Salford,percent_conceptions_abortion,2007,45.9
 E08000006,Salford,number_conceptions,2006,247
-E08000006,Salford,conceptions_per_100,2006,63.5
-E08000006,Salford,maternity_per_100,2006,35.7
-E08000006,Salford,abortion_per_100,2006,27.7
+E08000006,Salford,conceptions_per_1000,2006,63.5
+E08000006,Salford,maternity_per_1000,2006,35.7
+E08000006,Salford,abortion_per_1000,2006,27.7
 E08000006,Salford,percent_conceptions_abortion,2006,43.7
 E08000006,Salford,number_conceptions,2005,256
-E08000006,Salford,conceptions_per_100,2005,66.8
-E08000006,Salford,maternity_per_100,2005,40.4
-E08000006,Salford,abortion_per_100,2005,26.4
+E08000006,Salford,conceptions_per_1000,2005,66.8
+E08000006,Salford,maternity_per_1000,2005,40.4
+E08000006,Salford,abortion_per_1000,2005,26.4
 E08000006,Salford,percent_conceptions_abortion,2005,39.5
 E08000006,Salford,number_conceptions,2004,232
-E08000006,Salford,conceptions_per_100,2004,61
-E08000006,Salford,maternity_per_100,2004,34.2
-E08000006,Salford,abortion_per_100,2004,26.8
+E08000006,Salford,conceptions_per_1000,2004,61
+E08000006,Salford,maternity_per_1000,2004,34.2
+E08000006,Salford,abortion_per_1000,2004,26.8
 E08000006,Salford,percent_conceptions_abortion,2004,44
 E08000006,Salford,number_conceptions,2003,238
-E08000006,Salford,conceptions_per_100,2003,60.7
-E08000006,Salford,maternity_per_100,2003,36
-E08000006,Salford,abortion_per_100,2003,24.7
+E08000006,Salford,conceptions_per_1000,2003,60.7
+E08000006,Salford,maternity_per_1000,2003,36
+E08000006,Salford,abortion_per_1000,2003,24.7
 E08000006,Salford,percent_conceptions_abortion,2003,40.8
 E08000006,Salford,number_conceptions,2002,216
-E08000006,Salford,conceptions_per_100,2002,53.8
-E08000006,Salford,maternity_per_100,2002,34.3
-E08000006,Salford,abortion_per_100,2002,19.4
+E08000006,Salford,conceptions_per_1000,2002,53.8
+E08000006,Salford,maternity_per_1000,2002,34.3
+E08000006,Salford,abortion_per_1000,2002,19.4
 E08000006,Salford,percent_conceptions_abortion,2002,36.1
 E08000006,Salford,number_conceptions,2001,236
-E08000006,Salford,conceptions_per_100,2001,56.7
-E08000006,Salford,maternity_per_100,2001,36
-E08000006,Salford,abortion_per_100,2001,20.7
+E08000006,Salford,conceptions_per_1000,2001,56.7
+E08000006,Salford,maternity_per_1000,2001,36
+E08000006,Salford,abortion_per_1000,2001,20.7
 E08000006,Salford,percent_conceptions_abortion,2001,36.4
 E08000006,Salford,number_conceptions,2000,219
-E08000006,Salford,conceptions_per_100,2000,53.5
-E08000006,Salford,maternity_per_100,2000,32
-E08000006,Salford,abortion_per_100,2000,21.5
+E08000006,Salford,conceptions_per_1000,2000,53.5
+E08000006,Salford,maternity_per_1000,2000,32
+E08000006,Salford,abortion_per_1000,2000,21.5
 E08000006,Salford,percent_conceptions_abortion,2000,40.2
 E08000006,Salford,number_conceptions,1999,252
-E08000006,Salford,conceptions_per_100,1999,62.1
-E08000006,Salford,maternity_per_100,1999,39.4
-E08000006,Salford,abortion_per_100,1999,22.7
+E08000006,Salford,conceptions_per_1000,1999,62.1
+E08000006,Salford,maternity_per_1000,1999,39.4
+E08000006,Salford,abortion_per_1000,1999,22.7
 E08000006,Salford,percent_conceptions_abortion,1999,36.5
 E08000006,Salford,number_conceptions,1998,250
-E08000006,Salford,conceptions_per_100,1998,61.5
-E08000006,Salford,maternity_per_100,1998,45.2
-E08000006,Salford,abortion_per_100,1998,16.2
+E08000006,Salford,conceptions_per_1000,1998,61.5
+E08000006,Salford,maternity_per_1000,1998,45.2
+E08000006,Salford,abortion_per_1000,1998,16.2
 E08000006,Salford,percent_conceptions_abortion,1998,26.4
 E08000007,Stockport,number_conceptions,2017,76
-E08000007,Stockport,conceptions_per_100,2017,16.1
-E08000007,Stockport,maternity_per_100,2017,7.4
-E08000007,Stockport,abortion_per_100,2017,8.7
+E08000007,Stockport,conceptions_per_1000,2017,16.1
+E08000007,Stockport,maternity_per_1000,2017,7.4
+E08000007,Stockport,abortion_per_1000,2017,8.7
 E08000007,Stockport,percent_conceptions_abortion,2017,53.9
 E08000007,Stockport,number_conceptions,2016,87
-E08000007,Stockport,conceptions_per_100,2016,17.8
-E08000007,Stockport,maternity_per_100,2016,8
-E08000007,Stockport,abortion_per_100,2016,9.8
+E08000007,Stockport,conceptions_per_1000,2016,17.8
+E08000007,Stockport,maternity_per_1000,2016,8
+E08000007,Stockport,abortion_per_1000,2016,9.8
 E08000007,Stockport,percent_conceptions_abortion,2016,55.2
 E08000007,Stockport,number_conceptions,2015,103
-E08000007,Stockport,conceptions_per_100,2015,20.8
-E08000007,Stockport,maternity_per_100,2015,8.3
-E08000007,Stockport,abortion_per_100,2015,12.5
+E08000007,Stockport,conceptions_per_1000,2015,20.8
+E08000007,Stockport,maternity_per_1000,2015,8.3
+E08000007,Stockport,abortion_per_1000,2015,12.5
 E08000007,Stockport,percent_conceptions_abortion,2015,60.2
 E08000007,Stockport,number_conceptions,2014,112
-E08000007,Stockport,conceptions_per_100,2014,22.2
-E08000007,Stockport,maternity_per_100,2014,9.9
-E08000007,Stockport,abortion_per_100,2014,12.3
+E08000007,Stockport,conceptions_per_1000,2014,22.2
+E08000007,Stockport,maternity_per_1000,2014,9.9
+E08000007,Stockport,abortion_per_1000,2014,12.3
 E08000007,Stockport,percent_conceptions_abortion,2014,55.4
 E08000007,Stockport,number_conceptions,2013,132
-E08000007,Stockport,conceptions_per_100,2013,26.1
-E08000007,Stockport,maternity_per_100,2013,10.5
-E08000007,Stockport,abortion_per_100,2013,15.6
+E08000007,Stockport,conceptions_per_1000,2013,26.1
+E08000007,Stockport,maternity_per_1000,2013,10.5
+E08000007,Stockport,abortion_per_1000,2013,15.6
 E08000007,Stockport,percent_conceptions_abortion,2013,59.8
 E08000007,Stockport,number_conceptions,2012,138
-E08000007,Stockport,conceptions_per_100,2012,26.9
-E08000007,Stockport,maternity_per_100,2012,12.9
-E08000007,Stockport,abortion_per_100,2012,14
+E08000007,Stockport,conceptions_per_1000,2012,26.9
+E08000007,Stockport,maternity_per_1000,2012,12.9
+E08000007,Stockport,abortion_per_1000,2012,14
 E08000007,Stockport,percent_conceptions_abortion,2012,52.2
 E08000007,Stockport,number_conceptions,2011,145
-E08000007,Stockport,conceptions_per_100,2011,28.4
-E08000007,Stockport,maternity_per_100,2011,13.7
-E08000007,Stockport,abortion_per_100,2011,14.7
+E08000007,Stockport,conceptions_per_1000,2011,28.4
+E08000007,Stockport,maternity_per_1000,2011,13.7
+E08000007,Stockport,abortion_per_1000,2011,14.7
 E08000007,Stockport,percent_conceptions_abortion,2011,51.7
 E08000007,Stockport,number_conceptions,2010,168
-E08000007,Stockport,conceptions_per_100,2010,32.6
-E08000007,Stockport,maternity_per_100,2010,14.2
-E08000007,Stockport,abortion_per_100,2010,18.5
+E08000007,Stockport,conceptions_per_1000,2010,32.6
+E08000007,Stockport,maternity_per_1000,2010,14.2
+E08000007,Stockport,abortion_per_1000,2010,18.5
 E08000007,Stockport,percent_conceptions_abortion,2010,56.5
 E08000007,Stockport,number_conceptions,2009,198
-E08000007,Stockport,conceptions_per_100,2009,36.9
-E08000007,Stockport,maternity_per_100,2009,17.1
-E08000007,Stockport,abortion_per_100,2009,19.7
+E08000007,Stockport,conceptions_per_1000,2009,36.9
+E08000007,Stockport,maternity_per_1000,2009,17.1
+E08000007,Stockport,abortion_per_1000,2009,19.7
 E08000007,Stockport,percent_conceptions_abortion,2009,53.5
 E08000007,Stockport,number_conceptions,2008,201
-E08000007,Stockport,conceptions_per_100,2008,35.7
-E08000007,Stockport,maternity_per_100,2008,16.9
-E08000007,Stockport,abortion_per_100,2008,18.9
+E08000007,Stockport,conceptions_per_1000,2008,35.7
+E08000007,Stockport,maternity_per_1000,2008,16.9
+E08000007,Stockport,abortion_per_1000,2008,18.9
 E08000007,Stockport,percent_conceptions_abortion,2008,52.7
 E08000007,Stockport,number_conceptions,2007,221
-E08000007,Stockport,conceptions_per_100,2007,38.3
-E08000007,Stockport,maternity_per_100,2007,17.5
-E08000007,Stockport,abortion_per_100,2007,20.8
+E08000007,Stockport,conceptions_per_1000,2007,38.3
+E08000007,Stockport,maternity_per_1000,2007,17.5
+E08000007,Stockport,abortion_per_1000,2007,20.8
 E08000007,Stockport,percent_conceptions_abortion,2007,54.3
 E08000007,Stockport,number_conceptions,2006,233
-E08000007,Stockport,conceptions_per_100,2006,40.7
-E08000007,Stockport,maternity_per_100,2006,20.3
-E08000007,Stockport,abortion_per_100,2006,20.4
+E08000007,Stockport,conceptions_per_1000,2006,40.7
+E08000007,Stockport,maternity_per_1000,2006,20.3
+E08000007,Stockport,abortion_per_1000,2006,20.4
 E08000007,Stockport,percent_conceptions_abortion,2006,50.2
 E08000007,Stockport,number_conceptions,2005,190
-E08000007,Stockport,conceptions_per_100,2005,33.1
-E08000007,Stockport,maternity_per_100,2005,18.5
-E08000007,Stockport,abortion_per_100,2005,14.7
+E08000007,Stockport,conceptions_per_1000,2005,33.1
+E08000007,Stockport,maternity_per_1000,2005,18.5
+E08000007,Stockport,abortion_per_1000,2005,14.7
 E08000007,Stockport,percent_conceptions_abortion,2005,44.2
 E08000007,Stockport,number_conceptions,2004,209
-E08000007,Stockport,conceptions_per_100,2004,37
-E08000007,Stockport,maternity_per_100,2004,19.8
-E08000007,Stockport,abortion_per_100,2004,17.2
+E08000007,Stockport,conceptions_per_1000,2004,37
+E08000007,Stockport,maternity_per_1000,2004,19.8
+E08000007,Stockport,abortion_per_1000,2004,17.2
 E08000007,Stockport,percent_conceptions_abortion,2004,46.4
 E08000007,Stockport,number_conceptions,2003,218
-E08000007,Stockport,conceptions_per_100,2003,38.9
-E08000007,Stockport,maternity_per_100,2003,21.6
-E08000007,Stockport,abortion_per_100,2003,17.3
+E08000007,Stockport,conceptions_per_1000,2003,38.9
+E08000007,Stockport,maternity_per_1000,2003,21.6
+E08000007,Stockport,abortion_per_1000,2003,17.3
 E08000007,Stockport,percent_conceptions_abortion,2003,44.5
 E08000007,Stockport,number_conceptions,2002,195
-E08000007,Stockport,conceptions_per_100,2002,35.9
-E08000007,Stockport,maternity_per_100,2002,19.1
-E08000007,Stockport,abortion_per_100,2002,16.8
+E08000007,Stockport,conceptions_per_1000,2002,35.9
+E08000007,Stockport,maternity_per_1000,2002,19.1
+E08000007,Stockport,abortion_per_1000,2002,16.8
 E08000007,Stockport,percent_conceptions_abortion,2002,46.7
 E08000007,Stockport,number_conceptions,2001,196
-E08000007,Stockport,conceptions_per_100,2001,36.2
-E08000007,Stockport,maternity_per_100,2001,18.5
-E08000007,Stockport,abortion_per_100,2001,17.7
+E08000007,Stockport,conceptions_per_1000,2001,36.2
+E08000007,Stockport,maternity_per_1000,2001,18.5
+E08000007,Stockport,abortion_per_1000,2001,17.7
 E08000007,Stockport,percent_conceptions_abortion,2001,49
 E08000007,Stockport,number_conceptions,2000,173
-E08000007,Stockport,conceptions_per_100,2000,32.3
-E08000007,Stockport,maternity_per_100,2000,16.6
-E08000007,Stockport,abortion_per_100,2000,15.7
+E08000007,Stockport,conceptions_per_1000,2000,32.3
+E08000007,Stockport,maternity_per_1000,2000,16.6
+E08000007,Stockport,abortion_per_1000,2000,15.7
 E08000007,Stockport,percent_conceptions_abortion,2000,48.6
 E08000007,Stockport,number_conceptions,1999,232
-E08000007,Stockport,conceptions_per_100,1999,43.2
-E08000007,Stockport,maternity_per_100,1999,24.4
-E08000007,Stockport,abortion_per_100,1999,18.8
+E08000007,Stockport,conceptions_per_1000,1999,43.2
+E08000007,Stockport,maternity_per_1000,1999,24.4
+E08000007,Stockport,abortion_per_1000,1999,18.8
 E08000007,Stockport,percent_conceptions_abortion,1999,43.5
 E08000007,Stockport,number_conceptions,1998,230
-E08000007,Stockport,conceptions_per_100,1998,43.2
-E08000007,Stockport,maternity_per_100,1998,20.1
-E08000007,Stockport,abortion_per_100,1998,23.1
+E08000007,Stockport,conceptions_per_1000,1998,43.2
+E08000007,Stockport,maternity_per_1000,1998,20.1
+E08000007,Stockport,abortion_per_1000,1998,23.1
 E08000007,Stockport,percent_conceptions_abortion,1998,53.5
 E08000008,Tameside,number_conceptions,2017,83
-E08000008,Tameside,conceptions_per_100,2017,22.7
-E08000008,Tameside,maternity_per_100,2017,9.9
-E08000008,Tameside,abortion_per_100,2017,12.9
+E08000008,Tameside,conceptions_per_1000,2017,22.7
+E08000008,Tameside,maternity_per_1000,2017,9.9
+E08000008,Tameside,abortion_per_1000,2017,12.9
 E08000008,Tameside,percent_conceptions_abortion,2017,56.6
 E08000008,Tameside,number_conceptions,2016,98
-E08000008,Tameside,conceptions_per_100,2016,26
-E08000008,Tameside,maternity_per_100,2016,15.1
-E08000008,Tameside,abortion_per_100,2016,10.9
+E08000008,Tameside,conceptions_per_1000,2016,26
+E08000008,Tameside,maternity_per_1000,2016,15.1
+E08000008,Tameside,abortion_per_1000,2016,10.9
 E08000008,Tameside,percent_conceptions_abortion,2016,41.8
 E08000008,Tameside,number_conceptions,2015,95
-E08000008,Tameside,conceptions_per_100,2015,25.2
-E08000008,Tameside,maternity_per_100,2015,12.2
-E08000008,Tameside,abortion_per_100,2015,13
+E08000008,Tameside,conceptions_per_1000,2015,25.2
+E08000008,Tameside,maternity_per_1000,2015,12.2
+E08000008,Tameside,abortion_per_1000,2015,13
 E08000008,Tameside,percent_conceptions_abortion,2015,51.6
 E08000008,Tameside,number_conceptions,2014,101
-E08000008,Tameside,conceptions_per_100,2014,25.5
-E08000008,Tameside,maternity_per_100,2014,13.6
-E08000008,Tameside,abortion_per_100,2014,11.9
+E08000008,Tameside,conceptions_per_1000,2014,25.5
+E08000008,Tameside,maternity_per_1000,2014,13.6
+E08000008,Tameside,abortion_per_1000,2014,11.9
 E08000008,Tameside,percent_conceptions_abortion,2014,46.5
 E08000008,Tameside,number_conceptions,2013,115
-E08000008,Tameside,conceptions_per_100,2013,29.2
-E08000008,Tameside,maternity_per_100,2013,15.5
-E08000008,Tameside,abortion_per_100,2013,13.7
+E08000008,Tameside,conceptions_per_1000,2013,29.2
+E08000008,Tameside,maternity_per_1000,2013,15.5
+E08000008,Tameside,abortion_per_1000,2013,13.7
 E08000008,Tameside,percent_conceptions_abortion,2013,47
 E08000008,Tameside,number_conceptions,2012,131
-E08000008,Tameside,conceptions_per_100,2012,32.8
-E08000008,Tameside,maternity_per_100,2012,18.3
-E08000008,Tameside,abortion_per_100,2012,14.5
+E08000008,Tameside,conceptions_per_1000,2012,32.8
+E08000008,Tameside,maternity_per_1000,2012,18.3
+E08000008,Tameside,abortion_per_1000,2012,14.5
 E08000008,Tameside,percent_conceptions_abortion,2012,44.3
 E08000008,Tameside,number_conceptions,2011,183
-E08000008,Tameside,conceptions_per_100,2011,45.2
-E08000008,Tameside,maternity_per_100,2011,25
-E08000008,Tameside,abortion_per_100,2011,20.3
+E08000008,Tameside,conceptions_per_1000,2011,45.2
+E08000008,Tameside,maternity_per_1000,2011,25
+E08000008,Tameside,abortion_per_1000,2011,20.3
 E08000008,Tameside,percent_conceptions_abortion,2011,44.8
 E08000008,Tameside,number_conceptions,2010,197
-E08000008,Tameside,conceptions_per_100,2010,46.1
-E08000008,Tameside,maternity_per_100,2010,23.4
-E08000008,Tameside,abortion_per_100,2010,22.7
+E08000008,Tameside,conceptions_per_1000,2010,46.1
+E08000008,Tameside,maternity_per_1000,2010,23.4
+E08000008,Tameside,abortion_per_1000,2010,22.7
 E08000008,Tameside,percent_conceptions_abortion,2010,49.2
 E08000008,Tameside,number_conceptions,2009,255
-E08000008,Tameside,conceptions_per_100,2009,58.4
-E08000008,Tameside,maternity_per_100,2009,28.9
-E08000008,Tameside,abortion_per_100,2009,29.6
+E08000008,Tameside,conceptions_per_1000,2009,58.4
+E08000008,Tameside,maternity_per_1000,2009,28.9
+E08000008,Tameside,abortion_per_1000,2009,29.6
 E08000008,Tameside,percent_conceptions_abortion,2009,50.6
 E08000008,Tameside,number_conceptions,2008,267
-E08000008,Tameside,conceptions_per_100,2008,59.8
-E08000008,Tameside,maternity_per_100,2008,30.2
-E08000008,Tameside,abortion_per_100,2008,29.6
+E08000008,Tameside,conceptions_per_1000,2008,59.8
+E08000008,Tameside,maternity_per_1000,2008,30.2
+E08000008,Tameside,abortion_per_1000,2008,29.6
 E08000008,Tameside,percent_conceptions_abortion,2008,49.4
 E08000008,Tameside,number_conceptions,2007,249
-E08000008,Tameside,conceptions_per_100,2007,55.3
-E08000008,Tameside,maternity_per_100,2007,28.4
-E08000008,Tameside,abortion_per_100,2007,26.9
+E08000008,Tameside,conceptions_per_1000,2007,55.3
+E08000008,Tameside,maternity_per_1000,2007,28.4
+E08000008,Tameside,abortion_per_1000,2007,26.9
 E08000008,Tameside,percent_conceptions_abortion,2007,48.6
 E08000008,Tameside,number_conceptions,2006,252
-E08000008,Tameside,conceptions_per_100,2006,55
-E08000008,Tameside,maternity_per_100,2006,29.7
-E08000008,Tameside,abortion_per_100,2006,25.3
+E08000008,Tameside,conceptions_per_1000,2006,55
+E08000008,Tameside,maternity_per_1000,2006,29.7
+E08000008,Tameside,abortion_per_1000,2006,25.3
 E08000008,Tameside,percent_conceptions_abortion,2006,46
 E08000008,Tameside,number_conceptions,2005,274
-E08000008,Tameside,conceptions_per_100,2005,60
-E08000008,Tameside,maternity_per_100,2005,33.7
-E08000008,Tameside,abortion_per_100,2005,26.3
+E08000008,Tameside,conceptions_per_1000,2005,60
+E08000008,Tameside,maternity_per_1000,2005,33.7
+E08000008,Tameside,abortion_per_1000,2005,26.3
 E08000008,Tameside,percent_conceptions_abortion,2005,43.8
 E08000008,Tameside,number_conceptions,2004,246
-E08000008,Tameside,conceptions_per_100,2004,53.9
-E08000008,Tameside,maternity_per_100,2004,29.3
-E08000008,Tameside,abortion_per_100,2004,24.5
+E08000008,Tameside,conceptions_per_1000,2004,53.9
+E08000008,Tameside,maternity_per_1000,2004,29.3
+E08000008,Tameside,abortion_per_1000,2004,24.5
 E08000008,Tameside,percent_conceptions_abortion,2004,45.5
 E08000008,Tameside,number_conceptions,2003,253
-E08000008,Tameside,conceptions_per_100,2003,56.4
-E08000008,Tameside,maternity_per_100,2003,31.7
-E08000008,Tameside,abortion_per_100,2003,24.8
+E08000008,Tameside,conceptions_per_1000,2003,56.4
+E08000008,Tameside,maternity_per_1000,2003,31.7
+E08000008,Tameside,abortion_per_1000,2003,24.8
 E08000008,Tameside,percent_conceptions_abortion,2003,43.9
 E08000008,Tameside,number_conceptions,2002,229
-E08000008,Tameside,conceptions_per_100,2002,52.3
-E08000008,Tameside,maternity_per_100,2002,27.4
-E08000008,Tameside,abortion_per_100,2002,24.9
+E08000008,Tameside,conceptions_per_1000,2002,52.3
+E08000008,Tameside,maternity_per_1000,2002,27.4
+E08000008,Tameside,abortion_per_1000,2002,24.9
 E08000008,Tameside,percent_conceptions_abortion,2002,47.6
 E08000008,Tameside,number_conceptions,2001,219
-E08000008,Tameside,conceptions_per_100,2001,52.2
-E08000008,Tameside,maternity_per_100,2001,29.3
-E08000008,Tameside,abortion_per_100,2001,22.9
+E08000008,Tameside,conceptions_per_1000,2001,52.2
+E08000008,Tameside,maternity_per_1000,2001,29.3
+E08000008,Tameside,abortion_per_1000,2001,22.9
 E08000008,Tameside,percent_conceptions_abortion,2001,43.8
 E08000008,Tameside,number_conceptions,2000,218
-E08000008,Tameside,conceptions_per_100,2000,53.6
-E08000008,Tameside,maternity_per_100,2000,31.7
-E08000008,Tameside,abortion_per_100,2000,21.9
+E08000008,Tameside,conceptions_per_1000,2000,53.6
+E08000008,Tameside,maternity_per_1000,2000,31.7
+E08000008,Tameside,abortion_per_1000,2000,21.9
 E08000008,Tameside,percent_conceptions_abortion,2000,40.8
 E08000008,Tameside,number_conceptions,1999,204
-E08000008,Tameside,conceptions_per_100,1999,50.3
-E08000008,Tameside,maternity_per_100,1999,36
-E08000008,Tameside,abortion_per_100,1999,14.3
+E08000008,Tameside,conceptions_per_1000,1999,50.3
+E08000008,Tameside,maternity_per_1000,1999,36
+E08000008,Tameside,abortion_per_1000,1999,14.3
 E08000008,Tameside,percent_conceptions_abortion,1999,28.4
 E08000008,Tameside,number_conceptions,1998,216
-E08000008,Tameside,conceptions_per_100,1998,53.6
-E08000008,Tameside,maternity_per_100,1998,34.7
-E08000008,Tameside,abortion_per_100,1998,18.9
+E08000008,Tameside,conceptions_per_1000,1998,53.6
+E08000008,Tameside,maternity_per_1000,1998,34.7
+E08000008,Tameside,abortion_per_1000,1998,18.9
 E08000008,Tameside,percent_conceptions_abortion,1998,35.2
 E08000009,Trafford,number_conceptions,2017,36
-E08000009,Trafford,conceptions_per_100,2017,8.6
-E08000009,Trafford,maternity_per_100,2017,2.4
-E08000009,Trafford,abortion_per_100,2017,6.2
+E08000009,Trafford,conceptions_per_1000,2017,8.6
+E08000009,Trafford,maternity_per_1000,2017,2.4
+E08000009,Trafford,abortion_per_1000,2017,6.2
 E08000009,Trafford,percent_conceptions_abortion,2017,72.2
 E08000009,Trafford,number_conceptions,2016,41
-E08000009,Trafford,conceptions_per_100,2016,9.9
-E08000009,Trafford,maternity_per_100,2016,4.8
-E08000009,Trafford,abortion_per_100,2016,5.1
+E08000009,Trafford,conceptions_per_1000,2016,9.9
+E08000009,Trafford,maternity_per_1000,2016,4.8
+E08000009,Trafford,abortion_per_1000,2016,5.1
 E08000009,Trafford,percent_conceptions_abortion,2016,51.2
 E08000009,Trafford,number_conceptions,2015,60
-E08000009,Trafford,conceptions_per_100,2015,14.2
-E08000009,Trafford,maternity_per_100,2015,5.7
-E08000009,Trafford,abortion_per_100,2015,8.5
+E08000009,Trafford,conceptions_per_1000,2015,14.2
+E08000009,Trafford,maternity_per_1000,2015,5.7
+E08000009,Trafford,abortion_per_1000,2015,8.5
 E08000009,Trafford,percent_conceptions_abortion,2015,60
 E08000009,Trafford,number_conceptions,2014,67
-E08000009,Trafford,conceptions_per_100,2014,16
-E08000009,Trafford,maternity_per_100,2014,6.9
-E08000009,Trafford,abortion_per_100,2014,9.1
+E08000009,Trafford,conceptions_per_1000,2014,16
+E08000009,Trafford,maternity_per_1000,2014,6.9
+E08000009,Trafford,abortion_per_1000,2014,9.1
 E08000009,Trafford,percent_conceptions_abortion,2014,56.7
 E08000009,Trafford,number_conceptions,2013,66
-E08000009,Trafford,conceptions_per_100,2013,15.6
-E08000009,Trafford,maternity_per_100,2013,5.4
-E08000009,Trafford,abortion_per_100,2013,10.2
+E08000009,Trafford,conceptions_per_1000,2013,15.6
+E08000009,Trafford,maternity_per_1000,2013,5.4
+E08000009,Trafford,abortion_per_1000,2013,10.2
 E08000009,Trafford,percent_conceptions_abortion,2013,65.2
 E08000009,Trafford,number_conceptions,2012,84
-E08000009,Trafford,conceptions_per_100,2012,20.2
-E08000009,Trafford,maternity_per_100,2012,9.9
-E08000009,Trafford,abortion_per_100,2012,10.3
+E08000009,Trafford,conceptions_per_1000,2012,20.2
+E08000009,Trafford,maternity_per_1000,2012,9.9
+E08000009,Trafford,abortion_per_1000,2012,10.3
 E08000009,Trafford,percent_conceptions_abortion,2012,51.2
 E08000009,Trafford,number_conceptions,2011,101
-E08000009,Trafford,conceptions_per_100,2011,24.2
-E08000009,Trafford,maternity_per_100,2011,9.4
-E08000009,Trafford,abortion_per_100,2011,14.9
+E08000009,Trafford,conceptions_per_1000,2011,24.2
+E08000009,Trafford,maternity_per_1000,2011,9.4
+E08000009,Trafford,abortion_per_1000,2011,14.9
 E08000009,Trafford,percent_conceptions_abortion,2011,61.4
 E08000009,Trafford,number_conceptions,2010,112
-E08000009,Trafford,conceptions_per_100,2010,26.7
-E08000009,Trafford,maternity_per_100,2010,12.6
-E08000009,Trafford,abortion_per_100,2010,14.1
+E08000009,Trafford,conceptions_per_1000,2010,26.7
+E08000009,Trafford,maternity_per_1000,2010,12.6
+E08000009,Trafford,abortion_per_1000,2010,14.1
 E08000009,Trafford,percent_conceptions_abortion,2010,52.7
 E08000009,Trafford,number_conceptions,2009,119
-E08000009,Trafford,conceptions_per_100,2009,28
-E08000009,Trafford,maternity_per_100,2009,10.8
-E08000009,Trafford,abortion_per_100,2009,17.2
+E08000009,Trafford,conceptions_per_1000,2009,28
+E08000009,Trafford,maternity_per_1000,2009,10.8
+E08000009,Trafford,abortion_per_1000,2009,17.2
 E08000009,Trafford,percent_conceptions_abortion,2009,61.3
 E08000009,Trafford,number_conceptions,2008,143
-E08000009,Trafford,conceptions_per_100,2008,32.8
-E08000009,Trafford,maternity_per_100,2008,13.1
-E08000009,Trafford,abortion_per_100,2008,19.7
+E08000009,Trafford,conceptions_per_1000,2008,32.8
+E08000009,Trafford,maternity_per_1000,2008,13.1
+E08000009,Trafford,abortion_per_1000,2008,19.7
 E08000009,Trafford,percent_conceptions_abortion,2008,60.1
 E08000009,Trafford,number_conceptions,2007,163
-E08000009,Trafford,conceptions_per_100,2007,36.8
-E08000009,Trafford,maternity_per_100,2007,16.7
-E08000009,Trafford,abortion_per_100,2007,20.1
+E08000009,Trafford,conceptions_per_1000,2007,36.8
+E08000009,Trafford,maternity_per_1000,2007,16.7
+E08000009,Trafford,abortion_per_1000,2007,20.1
 E08000009,Trafford,percent_conceptions_abortion,2007,54.6
 E08000009,Trafford,number_conceptions,2006,131
-E08000009,Trafford,conceptions_per_100,2006,30
-E08000009,Trafford,maternity_per_100,2006,11.7
-E08000009,Trafford,abortion_per_100,2006,18.3
+E08000009,Trafford,conceptions_per_1000,2006,30
+E08000009,Trafford,maternity_per_1000,2006,11.7
+E08000009,Trafford,abortion_per_1000,2006,18.3
 E08000009,Trafford,percent_conceptions_abortion,2006,61.1
 E08000009,Trafford,number_conceptions,2005,154
-E08000009,Trafford,conceptions_per_100,2005,36.1
-E08000009,Trafford,maternity_per_100,2005,17.8
-E08000009,Trafford,abortion_per_100,2005,18.3
+E08000009,Trafford,conceptions_per_1000,2005,36.1
+E08000009,Trafford,maternity_per_1000,2005,17.8
+E08000009,Trafford,abortion_per_1000,2005,18.3
 E08000009,Trafford,percent_conceptions_abortion,2005,50.6
 E08000009,Trafford,number_conceptions,2004,133
-E08000009,Trafford,conceptions_per_100,2004,32.1
-E08000009,Trafford,maternity_per_100,2004,16.4
-E08000009,Trafford,abortion_per_100,2004,15.7
+E08000009,Trafford,conceptions_per_1000,2004,32.1
+E08000009,Trafford,maternity_per_1000,2004,16.4
+E08000009,Trafford,abortion_per_1000,2004,15.7
 E08000009,Trafford,percent_conceptions_abortion,2004,48.9
 E08000009,Trafford,number_conceptions,2003,154
-E08000009,Trafford,conceptions_per_100,2003,37
-E08000009,Trafford,maternity_per_100,2003,17.5
-E08000009,Trafford,abortion_per_100,2003,19.5
+E08000009,Trafford,conceptions_per_1000,2003,37
+E08000009,Trafford,maternity_per_1000,2003,17.5
+E08000009,Trafford,abortion_per_1000,2003,19.5
 E08000009,Trafford,percent_conceptions_abortion,2003,52.6
 E08000009,Trafford,number_conceptions,2002,135
-E08000009,Trafford,conceptions_per_100,2002,32.6
-E08000009,Trafford,maternity_per_100,2002,14.5
-E08000009,Trafford,abortion_per_100,2002,18.1
+E08000009,Trafford,conceptions_per_1000,2002,32.6
+E08000009,Trafford,maternity_per_1000,2002,14.5
+E08000009,Trafford,abortion_per_1000,2002,18.1
 E08000009,Trafford,percent_conceptions_abortion,2002,55.6
 E08000009,Trafford,number_conceptions,2001,153
-E08000009,Trafford,conceptions_per_100,2001,36.2
-E08000009,Trafford,maternity_per_100,2001,17
-E08000009,Trafford,abortion_per_100,2001,19.2
+E08000009,Trafford,conceptions_per_1000,2001,36.2
+E08000009,Trafford,maternity_per_1000,2001,17
+E08000009,Trafford,abortion_per_1000,2001,19.2
 E08000009,Trafford,percent_conceptions_abortion,2001,52.9
 E08000009,Trafford,number_conceptions,2000,138
-E08000009,Trafford,conceptions_per_100,2000,33.2
-E08000009,Trafford,maternity_per_100,2000,15.6
-E08000009,Trafford,abortion_per_100,2000,17.6
+E08000009,Trafford,conceptions_per_1000,2000,33.2
+E08000009,Trafford,maternity_per_1000,2000,15.6
+E08000009,Trafford,abortion_per_1000,2000,17.6
 E08000009,Trafford,percent_conceptions_abortion,2000,52.9
 E08000009,Trafford,number_conceptions,1999,161
-E08000009,Trafford,conceptions_per_100,1999,39.6
-E08000009,Trafford,maternity_per_100,1999,23.6
-E08000009,Trafford,abortion_per_100,1999,16
+E08000009,Trafford,conceptions_per_1000,1999,39.6
+E08000009,Trafford,maternity_per_1000,1999,23.6
+E08000009,Trafford,abortion_per_1000,1999,16
 E08000009,Trafford,percent_conceptions_abortion,1999,40.4
 E08000009,Trafford,number_conceptions,1998,137
-E08000009,Trafford,conceptions_per_100,1998,34
-E08000009,Trafford,maternity_per_100,1998,19.4
-E08000009,Trafford,abortion_per_100,1998,14.6
+E08000009,Trafford,conceptions_per_1000,1998,34
+E08000009,Trafford,maternity_per_1000,1998,19.4
+E08000009,Trafford,abortion_per_1000,1998,14.6
 E08000009,Trafford,percent_conceptions_abortion,1998,43.1
 E08000010,Wigan,number_conceptions,2017,120
-E08000010,Wigan,conceptions_per_100,2017,23
-E08000010,Wigan,maternity_per_100,2017,13
-E08000010,Wigan,abortion_per_100,2017,10
+E08000010,Wigan,conceptions_per_1000,2017,23
+E08000010,Wigan,maternity_per_1000,2017,13
+E08000010,Wigan,abortion_per_1000,2017,10
 E08000010,Wigan,percent_conceptions_abortion,2017,43.3
 E08000010,Wigan,number_conceptions,2016,121
-E08000010,Wigan,conceptions_per_100,2016,23.1
-E08000010,Wigan,maternity_per_100,2016,9.5
-E08000010,Wigan,abortion_per_100,2016,13.5
+E08000010,Wigan,conceptions_per_1000,2016,23.1
+E08000010,Wigan,maternity_per_1000,2016,9.5
+E08000010,Wigan,abortion_per_1000,2016,13.5
 E08000010,Wigan,percent_conceptions_abortion,2016,58.7
 E08000010,Wigan,number_conceptions,2015,129
-E08000010,Wigan,conceptions_per_100,2015,24.8
-E08000010,Wigan,maternity_per_100,2015,11.5
-E08000010,Wigan,abortion_per_100,2015,13.3
+E08000010,Wigan,conceptions_per_1000,2015,24.8
+E08000010,Wigan,maternity_per_1000,2015,11.5
+E08000010,Wigan,abortion_per_1000,2015,13.3
 E08000010,Wigan,percent_conceptions_abortion,2015,53.5
 E08000010,Wigan,number_conceptions,2014,173
-E08000010,Wigan,conceptions_per_100,2014,31.8
-E08000010,Wigan,maternity_per_100,2014,16.4
-E08000010,Wigan,abortion_per_100,2014,15.5
+E08000010,Wigan,conceptions_per_1000,2014,31.8
+E08000010,Wigan,maternity_per_1000,2014,16.4
+E08000010,Wigan,abortion_per_1000,2014,15.5
 E08000010,Wigan,percent_conceptions_abortion,2014,48.6
 E08000010,Wigan,number_conceptions,2013,153
-E08000010,Wigan,conceptions_per_100,2013,27.4
-E08000010,Wigan,maternity_per_100,2013,14.7
-E08000010,Wigan,abortion_per_100,2013,12.7
+E08000010,Wigan,conceptions_per_1000,2013,27.4
+E08000010,Wigan,maternity_per_1000,2013,14.7
+E08000010,Wigan,abortion_per_1000,2013,12.7
 E08000010,Wigan,percent_conceptions_abortion,2013,46.4
 E08000010,Wigan,number_conceptions,2012,185
-E08000010,Wigan,conceptions_per_100,2012,32.1
-E08000010,Wigan,maternity_per_100,2012,17.5
-E08000010,Wigan,abortion_per_100,2012,14.6
+E08000010,Wigan,conceptions_per_1000,2012,32.1
+E08000010,Wigan,maternity_per_1000,2012,17.5
+E08000010,Wigan,abortion_per_1000,2012,14.6
 E08000010,Wigan,percent_conceptions_abortion,2012,45.4
 E08000010,Wigan,number_conceptions,2011,202
-E08000010,Wigan,conceptions_per_100,2011,34.7
-E08000010,Wigan,maternity_per_100,2011,20.6
-E08000010,Wigan,abortion_per_100,2011,14.1
+E08000010,Wigan,conceptions_per_1000,2011,34.7
+E08000010,Wigan,maternity_per_1000,2011,20.6
+E08000010,Wigan,abortion_per_1000,2011,14.1
 E08000010,Wigan,percent_conceptions_abortion,2011,40.6
 E08000010,Wigan,number_conceptions,2010,276
-E08000010,Wigan,conceptions_per_100,2010,46.9
-E08000010,Wigan,maternity_per_100,2010,24.8
-E08000010,Wigan,abortion_per_100,2010,22.1
+E08000010,Wigan,conceptions_per_1000,2010,46.9
+E08000010,Wigan,maternity_per_1000,2010,24.8
+E08000010,Wigan,abortion_per_1000,2010,22.1
 E08000010,Wigan,percent_conceptions_abortion,2010,47.1
 E08000010,Wigan,number_conceptions,2009,304
-E08000010,Wigan,conceptions_per_100,2009,49.6
-E08000010,Wigan,maternity_per_100,2009,25.3
-E08000010,Wigan,abortion_per_100,2009,24.3
+E08000010,Wigan,conceptions_per_1000,2009,49.6
+E08000010,Wigan,maternity_per_1000,2009,25.3
+E08000010,Wigan,abortion_per_1000,2009,24.3
 E08000010,Wigan,percent_conceptions_abortion,2009,49
 E08000010,Wigan,number_conceptions,2008,303
-E08000010,Wigan,conceptions_per_100,2008,49
-E08000010,Wigan,maternity_per_100,2008,28
-E08000010,Wigan,abortion_per_100,2008,21
+E08000010,Wigan,conceptions_per_1000,2008,49
+E08000010,Wigan,maternity_per_1000,2008,28
+E08000010,Wigan,abortion_per_1000,2008,21
 E08000010,Wigan,percent_conceptions_abortion,2008,42.9
 E08000010,Wigan,number_conceptions,2007,324
-E08000010,Wigan,conceptions_per_100,2007,52.7
-E08000010,Wigan,maternity_per_100,2007,29.6
-E08000010,Wigan,abortion_per_100,2007,23.1
+E08000010,Wigan,conceptions_per_1000,2007,52.7
+E08000010,Wigan,maternity_per_1000,2007,29.6
+E08000010,Wigan,abortion_per_1000,2007,23.1
 E08000010,Wigan,percent_conceptions_abortion,2007,43.8
 E08000010,Wigan,number_conceptions,2006,314
-E08000010,Wigan,conceptions_per_100,2006,51.7
-E08000010,Wigan,maternity_per_100,2006,29.8
-E08000010,Wigan,abortion_per_100,2006,21.9
+E08000010,Wigan,conceptions_per_1000,2006,51.7
+E08000010,Wigan,maternity_per_1000,2006,29.8
+E08000010,Wigan,abortion_per_1000,2006,21.9
 E08000010,Wigan,percent_conceptions_abortion,2006,42.4
 E08000010,Wigan,number_conceptions,2005,346
-E08000010,Wigan,conceptions_per_100,2005,57.6
-E08000010,Wigan,maternity_per_100,2005,33.3
-E08000010,Wigan,abortion_per_100,2005,24.3
+E08000010,Wigan,conceptions_per_1000,2005,57.6
+E08000010,Wigan,maternity_per_1000,2005,33.3
+E08000010,Wigan,abortion_per_1000,2005,24.3
 E08000010,Wigan,percent_conceptions_abortion,2005,42.2
 E08000010,Wigan,number_conceptions,2004,307
-E08000010,Wigan,conceptions_per_100,2004,50.9
-E08000010,Wigan,maternity_per_100,2004,29
-E08000010,Wigan,abortion_per_100,2004,21.9
+E08000010,Wigan,conceptions_per_1000,2004,50.9
+E08000010,Wigan,maternity_per_1000,2004,29
+E08000010,Wigan,abortion_per_1000,2004,21.9
 E08000010,Wigan,percent_conceptions_abortion,2004,43
 E08000010,Wigan,number_conceptions,2003,310
-E08000010,Wigan,conceptions_per_100,2003,51.8
-E08000010,Wigan,maternity_per_100,2003,29.6
-E08000010,Wigan,abortion_per_100,2003,22.2
+E08000010,Wigan,conceptions_per_1000,2003,51.8
+E08000010,Wigan,maternity_per_1000,2003,29.6
+E08000010,Wigan,abortion_per_1000,2003,22.2
 E08000010,Wigan,percent_conceptions_abortion,2003,42.9
 E08000010,Wigan,number_conceptions,2002,316
-E08000010,Wigan,conceptions_per_100,2002,53.9
-E08000010,Wigan,maternity_per_100,2002,33.2
-E08000010,Wigan,abortion_per_100,2002,20.6
+E08000010,Wigan,conceptions_per_1000,2002,53.9
+E08000010,Wigan,maternity_per_1000,2002,33.2
+E08000010,Wigan,abortion_per_1000,2002,20.6
 E08000010,Wigan,percent_conceptions_abortion,2002,38.3
 E08000010,Wigan,number_conceptions,2001,296
-E08000010,Wigan,conceptions_per_100,2001,51.4
-E08000010,Wigan,maternity_per_100,2001,29.5
-E08000010,Wigan,abortion_per_100,2001,21.9
+E08000010,Wigan,conceptions_per_1000,2001,51.4
+E08000010,Wigan,maternity_per_1000,2001,29.5
+E08000010,Wigan,abortion_per_1000,2001,21.9
 E08000010,Wigan,percent_conceptions_abortion,2001,42.6
 E08000010,Wigan,number_conceptions,2000,310
-E08000010,Wigan,conceptions_per_100,2000,54.9
-E08000010,Wigan,maternity_per_100,2000,33.5
-E08000010,Wigan,abortion_per_100,2000,21.4
+E08000010,Wigan,conceptions_per_1000,2000,54.9
+E08000010,Wigan,maternity_per_1000,2000,33.5
+E08000010,Wigan,abortion_per_1000,2000,21.4
 E08000010,Wigan,percent_conceptions_abortion,2000,39
 E08000010,Wigan,number_conceptions,1999,330
-E08000010,Wigan,conceptions_per_100,1999,59.1
-E08000010,Wigan,maternity_per_100,1999,37.8
-E08000010,Wigan,abortion_per_100,1999,21.3
+E08000010,Wigan,conceptions_per_1000,1999,59.1
+E08000010,Wigan,maternity_per_1000,1999,37.8
+E08000010,Wigan,abortion_per_1000,1999,21.3
 E08000010,Wigan,percent_conceptions_abortion,1999,36.1
 E08000010,Wigan,number_conceptions,1998,297
-E08000010,Wigan,conceptions_per_100,1998,53.6
-E08000010,Wigan,maternity_per_100,1998,34.6
-E08000010,Wigan,abortion_per_100,1998,18.9
+E08000010,Wigan,conceptions_per_1000,1998,53.6
+E08000010,Wigan,maternity_per_1000,1998,34.6
+E08000010,Wigan,abortion_per_1000,1998,18.9
 E08000010,Wigan,percent_conceptions_abortion,1998,35.4
