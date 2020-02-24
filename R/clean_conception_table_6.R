@@ -14,8 +14,8 @@ df =
 # Rename the first two columns to have sensible names
 df = 
   df %>%
-  rename("LSOA" = "...1") %>%
-  rename("Area" = "...2") 
+  rename("la_code" = "...1") %>%
+  rename("la_Name" = "...2") 
 
 # There are some columns which only contain NA or "u".
 # Here "u" stands for "unreliable data"
@@ -37,7 +37,7 @@ df =
   select(-starts_with("..."))
 
 # Create new names to represent the statistics
-stats_names =  c("number_conceptions", "conceptions_per_100", "maternity_per_100", "abortion_per_100", "percent_conceptions_abortion")
+stats_names =  c("number_conceptions", "conceptions_per_1000", "maternity_per_1000", "abortion_per_1000", "percent_conceptions_abortion")
 
 # Create a vector of new columns names using the statistics and the years
 # I looked up the years in advance and saw this data set spans 2017 - 1998 with exactly 5 statistics for each year
@@ -50,15 +50,15 @@ list(stats = stats_names,
   pull()
   
 # Rename the data set
-names(df) = c("LSOA", "Area", col_names)
+names(df) = c("la_code", "la_name", col_names)
 
 # Keep only GM data
-lsoa_codes = c("E08000001", "E08000002", "E08000003", "E08000004", "E08000005",
+la_codes = c("E08000001", "E08000002", "E08000003", "E08000004", "E08000005",
                "E08000006", "E08000007", "E08000008", "E08000009", "E08000010",
                "E11000001", "E12000002", "E92000001")
 df = 
   df %>%
-  filter(LSOA %in% lsoa_codes)
+  filter(la_code %in% LA_codes)
 
 # Convert the wide data to long data
 # names_pattern will use the information in the column headers to become new variables
