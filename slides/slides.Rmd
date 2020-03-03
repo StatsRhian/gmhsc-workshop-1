@@ -69,7 +69,7 @@ knitr::include_graphics("assets/data-science-workflow.png", )
 
 * I've pre-processed table 1a, and 6 for you
 
-* If you want to use the other tables- you'll have to process them yourselves!
+* If you want to use the other tables - you'll have to process them yourselves!
 
 * Code is in the repo
 
@@ -158,7 +158,7 @@ knitr::include_graphics("assets/all_hexes.png")
 * 16:15 - 16:30 Wrap up
 
 ---
-
+class: middle
 
 .pull-left[
 
@@ -166,23 +166,19 @@ knitr::include_graphics("assets/all_hexes.png")
 knitr::include_graphics("assets/readr.png")
 ```
 
-* A
-* B
-* C
-* D
-* E
+* Charlie
+* Emily (D)
+* Richard
+
 
 
 ```{r, echo = FALSE, out.width = "100px", fig.align="left"}
 knitr::include_graphics("assets/tidyr.png")
 ```
 
-* A
-* B
-* C
-* D
-* E
-
+* Ian
+* Laura
+* Sylvain
 
 ]
 
@@ -193,25 +189,19 @@ knitr::include_graphics("assets/tidyr.png")
 knitr::include_graphics("assets/dplyr.png")
 ```
 
+* Amanda
+* Megan
+* Martyn
 
-* A
-* B
-* C
-* D
-* E
 
 
 ```{r, echo = FALSE, out.width = "100px", fig.align="left"}
 knitr::include_graphics("assets/ggplot2.png")
 ```
 
-
-* A
-* B
-* C
-* D
-* E
-
+* David
+* Paul
+* Shan
 
 ]
 
